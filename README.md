@@ -4,7 +4,7 @@ Intertidal chamber
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a>![Chamber_1](Chamber_1.png)</a></td>
+   <td>![Chamber_1](Chamber_1.png)</td>
     
    <td><a href="https://www.sparkfun.com/products/18590"><img src="https://cdn.sparkfun.com//assets/parts/1/8/6/3/0/RTK_Facet_Photos-01.jpg"></a></td>
   <tr align="center">
