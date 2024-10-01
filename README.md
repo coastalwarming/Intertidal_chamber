@@ -20,3 +20,4 @@ Repository Contents
 * **/Firmware** - Cpp firmware (Arduino IDE)
 * **/Mechanical** - Structural parts
 * **/BOM** - Complete list of components and cost
+* **/Images** - Images from the device
