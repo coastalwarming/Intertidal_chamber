@@ -1,0 +1,5566 @@
+1319196203525089
+lsts-conn
+221Y02F21-0200-3300CMM
+
+
+0
+4
+4
+lsts-conn
+43045-04YY_121314
+43045-04YY_121314
+Connector
+0
+4
+4
+lsts-conn
+406549
+
+
+0
+16
+14
+lsts-conn
+6116202
+
+
+0
+12
+8
+lsts-conn
+317616032
+3-1761603-2-1
+Connector
+0
+36
+36
+lsts-conn
+559320310
+
+
+0
+4
+3
+lsts-conn
+A-USBA-2P-C
+
+
+0
+12
+9
+lsts-conn
+A-USB_A-E
+
+
+0
+8
+5
+lsts-conn
+A-USB_B-M5-C
+
+
+0
+7
+6
+lsts-conn
+AMASS_MR30PB-FB_1x03_P3.50mm_Vertical
+Connector XT30 Vertical PCB Female, https://www.bto.pl/pdf/08084/MR30PB-FB.pdf
+RC Connector XT30
+0
+3
+3
+lsts-conn
+AMASS_MR30PB-M_1x03_P3.50mm_Vertical
+Connector XT30 Vertical PCB Male, https://www.bto.pl/pdf/08085/MR30PB-M.pdf
+RC Connector XT30
+0
+3
+3
+lsts-conn
+AMASS_MR30PW-FB_1x03_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+lsts-conn
+AMASS_MR30PW-M_1x03_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+lsts-conn
+AMASS_XT30PW-F_1x02_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+lsts-conn
+AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+lsts-conn
+AMASS_XT30U-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+AMASS_XT30U-M_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+AMASS_XT30UPB-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
+Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+AMASS_XT60PW-F_1x02_P7.20mm_Horizontal
+Connector XT60 Horizontal PCB Female, https://www.tme.eu/en/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf
+RC Connector XT60
+0
+4
+2
+lsts-conn
+AMASS_XT60PW-M_1x02_P7.20mm_Horizontal
+Connector XT60 Horizontal PCB Female, https://www.tme.eu/en/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf
+RC Connector XT60
+0
+4
+2
+lsts-conn
+ANT-GXH2505-MMCX
+
+
+0
+1
+1
+lsts-conn
+A_USBS-A
+
+
+0
+6
+5
+lsts-conn
+AlignmentMarker
+
+
+0
+13
+1
+lsts-conn
+BCS-114-L-D-PE-BE
+
+
+0
+56
+56
+lsts-conn
+BarrelJack_CUI_PJ-102AH_Horizontal
+Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
+Power Jack
+0
+3
+3
+lsts-conn
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+lsts-conn
+Binder 720 3Pin
+
+
+0
+3
+3
+lsts-conn
+CG3-2x1-HM
+Connecteurs 2 pins
+CONN DEV
+0
+2
+2
+lsts-conn
+CG3-3x2H90M
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+lsts-conn
+CG3-3x2H90MO
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+lsts-conn
+CG3-3x2HM
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+lsts-conn
+CG3-6x2H90M
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+12
+12
+lsts-conn
+CG3-6x2H90MO
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+12
+12
+lsts-conn
+CONN_6X2
+
+
+0
+12
+12
+lsts-conn
+CONN_ISP
+
+
+0
+6
+6
+lsts-conn
+CONN_SIB
+Connecteur 5 pins
+CONN DEV
+0
+9
+5
+lsts-conn
+ClampTerminal5.08mm
+
+
+0
+2
+2
+lsts-conn
+ClampTerminal_2P_5.08mm_90º
+1748167-1
+Connector
+0
+2
+2
+lsts-conn
+ClampTerminal_2P_5.08mm_Vertical
+
+
+0
+2
+2
+lsts-conn
+ClampTerminal_3P_5.08mm_90º
+1757255
+Connector
+0
+3
+3
+lsts-conn
+ClampTerminal_3P_5.08mm_Vertical
+
+
+0
+3
+3
+lsts-conn
+ClampTerminals_1x2_3.81mm_90º
+1803277 / RS 897-1130
+
+0
+2
+2
+lsts-conn
+ClampTerminals_1x3_3.81mm_90º
+
+
+0
+3
+3
+lsts-conn
+ClampTerminals_1x3_3.81mm_Straight
+
+
+0
+3
+3
+lsts-conn
+ClampTerminals_1x4_3.81mm_90º
+
+
+0
+4
+4
+lsts-conn
+ClampTerminals_1x6_3.81mm_90º
+
+
+0
+6
+6
+lsts-conn
+Conn_2x12V_solder_Chamber
+
+
+0
+2
+2
+lsts-conn
+Conn_3x12V_solder_Chamber
+
+
+0
+3
+3
+lsts-conn
+Conn_3x230V_solder_Chamber
+
+
+0
+3
+3
+lsts-conn
+Conn_6x12V_solder_Chamber
+
+
+0
+6
+6
+lsts-conn
+Conn_USB_SMD_Amphenol_GMCBA058XX1230HHR
+
+
+0
+9
+6
+lsts-conn
+DD1B030HA1
+
+
+0
+38
+30
+lsts-conn
+DD1B030VA1
+
+
+0
+36
+30
+lsts-conn
+DD1P030MA1
+
+
+0
+32
+30
+lsts-conn
+DD1P030MA1-GP
+
+
+0
+32
+29
+lsts-conn
+DD1P030MA1-GP-SUP
+
+
+0
+33
+30
+lsts-conn
+E22-900M30S-CONN
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+22
+22
+lsts-conn
+FH12-20S-0.5SH_55_
+FH12-20S-0.5SH(55)
+Connector
+0
+22
+22
+lsts-conn
+FH1234S05SH55
+FH12-34S-0.5SH(55)-1
+Connector
+0
+36
+36
+lsts-conn
+FH1236S05SH55
+FH12-36S-0.5SH(55)-1
+Connector
+0
+38
+38
+lsts-conn
+FMS006Z-2001-1
+
+
+0
+10
+6
+lsts-conn
+FTSH-105-01-F-D-K
+
+
+0
+10
+10
+lsts-conn
+HUB-Prog
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+5
+4
+lsts-conn
+Harting
+
+
+0
+11
+9
+lsts-conn
+Harwin_M20-7810245_2x02_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810245, 2 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+4
+4
+lsts-conn
+Harwin_M20-7812045_2x20_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7812045, 20 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+40
+40
+lsts-conn
+Harwin_P20-0445R
+
+
+0
+6
+4
+lsts-conn
+Harwin_S70-220102045R
+
+
+0
+1
+1
+lsts-conn
+Hirose_DF3EA_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal
+Hirose DF3EA SMD, DF3EA-05P-2H, 5 Pins per row (https://www.hirose.com/product/en/products/DF3/DF3EA%2D2P%2D2H%2821%29/), generated with kicad-footprint-generator
+connector Hirose DF3EA 
+0
+7
+6
+lsts-conn
+Hirose_DF11-8DP-2DSA_01
+
+
+0
+8
+8
+lsts-conn
+Hirose_DF12_DF12A3.0-50DS-0.5V_2x50_P0.50mm_Vertical
+Hirose DF12A SMD, DF12A3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/en/download_file/key_name/DF12A%283.0%29%2D30DS%2D0.5V%2881%29/category/Drawing%20(2D)/doc_file_id/38598/), generated with kicad-footprint-generator
+connector Hirose DF12 side entry
+0
+100
+50
+lsts-conn
+Hirose_DF12_DF12C3.0-50DS-0.5V_2x50_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/en/download_file/key_name/DF12C%283.0%29%2D50DS%2D0.5V%2881%29/category/Drawing%20(2D)/doc_file_id/38626/), generated with kicad-footprint-generator
+connector Hirose DF12 side entry
+0
+100
+50
+lsts-conn
+Hirose_DF13C-04P-1.25V_04x1.25mm_Straight
+Hirose DF13 series connector, 1.25mm pitch, top entry SMT
+connector hirose df13 top straight vertical surface mount SMD SMT
+0
+6
+4
+lsts-conn
+Hirose_DF13C-06P-1.25V_06x1.25mm_Straight
+Hirose DF13 series connector, 1.25mm pitch, top entry SMT
+connector hirose df13 top straight vertical surface mount SMD SMT
+0
+8
+6
+lsts-conn
+Hirose_Mini_USB
+
+
+0
+7
+5
+lsts-conn
+Hirose_Mini_USB_Shield
+
+
+0
+7
+6
+lsts-conn
+ICSP
+Atmel ICSP
+CONN
+0
+6
+6
+lsts-conn
+IGEP
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+31
+28
+lsts-conn
+IGEP_2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+31
+28
+lsts-conn
+JAE_Micro_USB_DX4R005H91
+
+
+0
+10
+5
+lsts-conn
+JAE_Micro_USB_DX4R005H91_shield
+
+
+0
+10
+6
+lsts-conn
+JAE_Micro_USB_DX4R005J91
+
+
+0
+10
+5
+lsts-conn
+JAE_Micro_USB_DX4R005J91_shield
+
+
+0
+10
+6
+lsts-conn
+JST-2x1H90M
+
+
+0
+2
+2
+lsts-conn
+JST-2x1HM
+
+
+0
+2
+2
+lsts-conn
+JST-3x1H90M
+
+
+0
+3
+3
+lsts-conn
+JST-3x1HM
+
+
+0
+3
+3
+lsts-conn
+JST-4x1H90M
+
+
+0
+4
+4
+lsts-conn
+JST-4x1HM
+
+
+0
+4
+4
+lsts-conn
+JST-5x1H90M
+
+
+0
+5
+5
+lsts-conn
+JST-5x1HM
+JST EH series connector, B05B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
+0
+5
+5
+lsts-conn
+JST-6x1HM
+
+
+0
+6
+6
+lsts-conn
+JST-7x1HM
+
+
+0
+7
+7
+lsts-conn
+JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
+JST EH series connector, B15B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
+0
+15
+15
+lsts-conn
+JST_EH_S15B-EH_1x15_P2.50mm_Horizontal
+JST EH series connector, S15B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH top entry
+0
+15
+15
+lsts-conn
+JST_VH_B2P3-VH_1x03_P3.96mm_Vertical
+JST VH series connector, B3P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH side entry
+0
+2
+2
+lsts-conn
+JST_VH_B3P-VH_1x03_P3.96mm_Vertical
+JST VH series connector, B3P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH side entry
+0
+3
+3
+lsts-conn
+JST_VH_B4P-VH_1x04_P3.96mm_Vertical
+JST VH series connector, B4P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH side entry
+0
+4
+4
+lsts-conn
+KX14-20K5D
+
+
+0
+24
+20
+lsts-conn
+KX15-20K3D
+
+
+0
+24
+20
+lsts-conn
+LSTS-BUS
+
+
+0
+44
+40
+lsts-conn
+MFT-2x1
+
+
+0
+2
+2
+lsts-conn
+MFT-2x1H90M
+
+
+0
+2
+2
+lsts-conn
+MFT-2x2
+
+
+0
+4
+4
+lsts-conn
+MFT-2x2H90M
+
+
+0
+4
+4
+lsts-conn
+MFT-3x1
+
+
+0
+5
+3
+lsts-conn
+MFT-3x1H90
+
+
+0
+3
+3
+lsts-conn
+MFT-3x2
+
+
+0
+6
+6
+lsts-conn
+MFT-3x2H90M
+
+
+0
+6
+6
+lsts-conn
+MFT-4x1H90
+
+
+0
+6
+4
+lsts-conn
+MFT-4x2
+
+
+0
+8
+8
+lsts-conn
+MFT-4x2H90M
+
+
+0
+8
+8
+lsts-conn
+MFT-5x1
+
+
+0
+7
+5
+lsts-conn
+MFT-5x2H90M
+
+
+0
+10
+10
+lsts-conn
+MFT-6x2
+
+
+0
+12
+12
+lsts-conn
+MFT-6x2H90M
+
+
+0
+12
+12
+lsts-conn
+MFT_2x1_SMD_90
+
+
+0
+4
+2
+lsts-conn
+MFT_2x4_SMD_90
+
+
+0
+10
+8
+lsts-conn
+MFT_3x1_SMD_90
+
+
+0
+5
+3
+lsts-conn
+MFT_8x1_SMD_90
+
+
+0
+10
+8
+lsts-conn
+MINI_FIT_10x2_90
+
+
+0
+20
+20
+lsts-conn
+MINI_FIT_10x2_V
+
+
+0
+20
+20
+lsts-conn
+MM60-52B1-E1-R650
+https://www.jae.com/en/connectors/series/detail/product/id=68907&type_code=T1110
+
+0
+60
+52
+lsts-conn
+MMCX_Molex_73415-1002_Horizontal
+https://www.molex.com/pdm_docs/sd/734151002_sd.pdf
+Molex MMCX Coaxial Connector 50 ohms Female Jack Horizontal THT
+0
+5
+2
+lsts-conn
+MMCX_Molex_73415-1471_Vertical
+http://www.molex.com/pdm_docs/sd/734151471_sd.pdf
+Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT
+0
+5
+2
+lsts-conn
+MPT0.5-5-2.54
+
+
+0
+5
+5
+lsts-conn
+MPT0.5-9-2.54
+
+
+0
+9
+9
+lsts-conn
+Micro-D
+
+
+0
+11
+11
+lsts-conn
+MicroCasp_5x2
+
+
+0
+10
+10
+lsts-conn
+MillMax_827-22-016-10-001101_06x01_P2.54mm_Vertical
+
+
+0
+6
+6
+lsts-conn
+Mini-Clamp_Socket-3x1
+
+
+0
+5
+3
+lsts-conn
+Mini-Clamp_Socket-4x4
+
+
+0
+16
+16
+lsts-conn
+MiniFit-2x2-V-CLIP
+
+
+0
+6
+4
+lsts-conn
+MiniFit-3x2-V-CLIP
+
+
+0
+8
+6
+lsts-conn
+MiniPCIe-full
+
+
+0
+64
+52
+lsts-conn
+Moled_Microfit 3.0 1x2 _43650-0201
+43650-02(00,01,02)
+Connector
+0
+2
+2
+lsts-conn
+Molex_Micro-Fit_3.0_43045-0224_2x01-1MP_P3.00mm_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-0224, 1 Pins per row (http://www.molex.com/pdm_docs/sd/430450224_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+4
+2
+lsts-conn
+Molex_Micro-Fit_3.0_43045-1600_2x08_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1600 (compatible alternatives: 43045-1601, 43045-1602), 8 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+16
+16
+lsts-conn
+Molex_Micro-Fit_3.0_43650-0318_1x03-1MP_P3.00mm_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0318, 3 Pins per row (http://www.molex.com/pdm_docs/sd/436500218_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+5
+3
+lsts-conn
+Molex_Micro-Fit_3.0_43650-0815_1x08_P3.00mm_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0815 (compatible alternatives: 43650-0816, 43650-0817), 8 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+8
+8
+lsts-conn
+Molex_Micro-Fit_3.0_43650-0818_1x08_P3.00mm_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0818, 8 Pins per row (https://www.molex.com/pdm_docs/sd/436500818_sd.pdf)
+connector Molex Micro-Fit_3.0 vertical
+0
+10
+8
+lsts-conn
+Molex_Microfit 3.0 1x2 _43650-0201
+43650-02(00,01,02)
+Connector
+0
+2
+2
+lsts-conn
+Molex_Microfit 3.0 1x2_43650-0216
+43650-02YY_151617
+Connector
+0
+2
+2
+lsts-conn
+Molex_Microfit 3.0 1x2_216571-1002
+43650-02YY_151617
+Connector
+0
+2
+2
+lsts-conn
+Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-20A2, example for new mpn: 39-30-0200, 10 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+20
+20
+lsts-conn
+Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0310, 3 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+3
+3
+lsts-conn
+Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+4
+4
+lsts-conn
+Molex_PicoBlade_53047-0510_1x05_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0510, 5 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+5
+5
+lsts-conn
+Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0610, 6 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+6
+6
+lsts-conn
+Molex_PicoBlade_53047-0710_1x07_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0710, 7 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+7
+7
+lsts-conn
+Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+8
+lsts-conn
+Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-0310, 3 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+3
+3
+lsts-conn
+Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-0710, 7 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+7
+7
+lsts-conn
+Molex_PicoBlade_53261-0371_1x03-1MP_P1.25mm_Horizontal
+Molex PicoBlade series connector, 53261-0371 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+5
+4
+lsts-conn
+Molex_PicoBlade_53261-0671_1x06-1MP_P1.25mm_Horizontal
+Molex PicoBlade series connector, 53261-0671 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+8
+7
+lsts-conn
+Molex_PicoBlade_53398-0371_1x03-1MP_P1.25mm_Vertical
+Molex PicoBlade series connector, 53398-0371 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+5
+4
+lsts-conn
+Molex_PicoBlade_53398-0471_1x04-1MP_P1.25mm_Vertical
+Molex PicoBlade series connector, 53398-0471 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+6
+5
+lsts-conn
+Molex_PicoBlade_53398-0571_1x05-1MP_P1.25mm_Vertical
+Molex PicoBlade series connector, 53398-0571 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+7
+6
+lsts-conn
+Molex_PicoBlade_53398-0671_1x06-1MP_P1.25mm_Vertical
+Molex PicoBlade series connector, 53398-0671 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+7
+lsts-conn
+Molex_PicoBlade_53398-0871_1x08-1MP_P1.25mm_Vertical
+Molex PicoBlade series connector, 53398-0871 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+10
+9
+lsts-conn
+PAD_1.5x0.5
+
+
+0
+1
+1
+lsts-conn
+PAD_1.75x0.75
+
+
+0
+1
+1
+lsts-conn
+PAD_3x4.5
+
+
+0
+1
+1
+lsts-conn
+PAD_4x1.5
+
+
+0
+1
+1
+lsts-conn
+PAD_Array_1x1_SMD
+
+
+0
+1
+1
+lsts-conn
+PAD_Array_1x2_SMD_2.54mm
+
+
+0
+2
+2
+lsts-conn
+PAD_Array_1x3_SMD_2.54mm
+
+
+0
+3
+3
+lsts-conn
+PICKIT-ICSP
+Connector 6 pins
+CONN DEV
+0
+6
+6
+lsts-conn
+PIN_ARRAY_1x1
+Connecteurs 1 pins
+CONN DEV
+0
+1
+1
+lsts-conn
+PIN_ARRAY_2x1
+Connecteurs 2 pins
+CONN DEV
+0
+2
+2
+lsts-conn
+PIN_ARRAY_2x2
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+lsts-conn
+PIN_ARRAY_3x1
+Connecteur 3 pins
+CONN DEV
+0
+3
+3
+lsts-conn
+PIN_ARRAY_3x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+lsts-conn
+PIN_ARRAY_3x2_SMD
+
+
+0
+6
+6
+lsts-conn
+PIN_ARRAY_3x2_SMD_WCB
+
+
+0
+6
+6
+lsts-conn
+PIN_ARRAY_4x1
+Connecteur 3 pins
+CONN DEV
+0
+4
+4
+lsts-conn
+PIN_ARRAY_5x1
+Connecteur 5 pins
+CONN DEV
+0
+5
+5
+lsts-conn
+PIN_ARRAY_5x1_female
+Connecteur 5 pins
+CONN DEV
+0
+5
+5
+lsts-conn
+PIN_ARRAY_5x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+10
+10
+lsts-conn
+PIN_ARRAY_6x1
+Connector 6 pins
+CONN DEV
+0
+6
+6
+lsts-conn
+PIN_ARRAY_6x2
+Connector 6 pins
+CONN DEV
+0
+12
+12
+lsts-conn
+PIN_ARRAY_7x1
+Connecteur 3 pins
+CONN DEV
+0
+7
+7
+lsts-conn
+PIN_ARRAY_7x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+14
+14
+lsts-conn
+PIN_ARRAY_8x1
+Connecteur 3 pins
+CONN DEV
+0
+8
+8
+lsts-conn
+PIN_ARRAY_10x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+20
+20
+lsts-conn
+PIN_ARRAY_12x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+24
+24
+lsts-conn
+PIN_ARRAY_14x1
+Connecteur 6 pins
+CONN DEV
+0
+14
+14
+lsts-conn
+PIN_ARRAY_14x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+28
+28
+lsts-conn
+PIN_ARRAY_16x1
+Connecteur 6 pins
+CONN DEV
+0
+16
+16
+lsts-conn
+PIN_ARRAY_Angled_2x1_Pitch2.54mm
+
+
+0
+2
+2
+lsts-conn
+PIN_ARRAY_Angled_3x1_Pitch2.54mm
+
+
+0
+3
+3
+lsts-conn
+PinHeader_1x02_P2.00mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+lsts-conn
+PinHeader_1x03_P2.00mm_Vertical
+Through hole straight pin header, 1x03, 2.00mm pitch, single row
+Through hole pin header THT 1x03 2.00mm single row
+0
+3
+3
+lsts-conn
+PinHeader_1x05_P1.27mm_Vertical
+Through hole straight pin header, 1x05, 1.27mm pitch, single row
+Through hole pin header THT 1x05 1.27mm single row
+0
+5
+5
+lsts-conn
+PinHeader_1x05_P2.00mm_Vertical
+Through hole straight pin header, 1x05, 2.00mm pitch, single row
+Through hole pin header THT 1x05 2.00mm single row
+0
+5
+5
+lsts-conn
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+lsts-conn
+PinHeader_2x05_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+lsts-conn
+Pin_Array_53048-0710_1x07_P1.25mm
+Molex PicoBlade Connector System, 53048-0710, 7 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+7
+7
+lsts-conn
+Pulse_button
+
+
+0
+2
+2
+lsts-conn
+Pulse_button_2
+
+
+0
+2
+2
+lsts-conn
+RCA
+
+
+0
+3
+2
+lsts-conn
+RITS-1R4P
+
+
+0
+6
+4
+lsts-conn
+RITS-4R3P
+
+
+0
+16
+12
+lsts-conn
+RITS-4R4P
+
+
+0
+16
+16
+lsts-conn
+RJ45_Amphenol_RJLSE4008101
+
+
+0
+10
+9
+lsts-conn
+RJ45_Amphenol_RJMG2012211A0FR_Horizontal
+10/100/1000 Base-T RJ45 single port with LEDs, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjmg2012211a0fr.pdf
+RJ45 8p8c ethernet
+0
+18
+17
+lsts-conn
+RJ45_Bel_SI-60062-F
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf
+RJ45 Magjack
+0
+14
+13
+lsts-conn
+RJ45_Pulse_J0G-0009NL_Horizontal
+10/100/1000 Base-T RJ45 single port with LEDs, https://productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_j423_1608369356.pdf
+RJ45 8p8c ethernet
+0
+19
+18
+lsts-conn
+SFMC-114-01-S-D
+
+
+0
+28
+28
+lsts-conn
+SFMC-114-01-S-D-reverse
+
+
+0
+28
+28
+lsts-conn
+SIM_CARD
+
+
+0
+6
+6
+lsts-conn
+SIM_CCM03_3013
+
+
+0
+8
+8
+lsts-conn
+SMA
+
+
+0
+5
+2
+lsts-conn
+SMA_Jack_Vertical
+SMA pcb through hole jack
+SMA THT Jack Straight
+0
+5
+2
+lsts-conn
+SMA_Molex_73251-1153_EdgeMount_Horizontal
+Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)
+sma edge
+0
+11
+2
+lsts-conn
+SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+lsts-conn
+SMD-2400_Ant
+
+
+0
+4
+2
+lsts-conn
+SMD_6x1
+
+
+0
+6
+6
+lsts-conn
+SW_100SP1T1B1M1QEH
+
+
+0
+3
+3
+lsts-conn
+SW_Toggle_C1720
+
+
+0
+3
+3
+lsts-conn
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
+lsts-conn
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+lsts-conn
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+solder jumper open
+0
+3
+3
+lsts-conn
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+lsts-conn
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+lsts-conn
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+lsts-conn
+TE_2-1734839-0_1x20_P0.5mm_Horizontal
+TE FPC connector, 20 bottom-side contacts, 0.5mm pitch, 2.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1734839&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=2-1734839-0
+
+0
+22
+20
+lsts-conn
+TE_DDR2-SODIMM-200_1473149-x
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1473149%7FK3%7Fpdf%7FEnglish%7FENG_CD_1473149_K3.pdf%7F1473149-4
+SODIMM DDR2 200pin 1.8V TE Connectivity 1473149-4
+0
+202
+200
+lsts-conn
+TFT_3.5''Adafruit_40pin
+Adafruit 3.5" 320x480 Color TFT Touchscreen Breakout 
+
+0
+40
+40
+lsts-conn
+USB-MINI-B
+
+
+0
+11
+6
+lsts-conn
+USB_A_PLUG
+
+
+0
+8
+5
+lsts-conn
+USB_A_R_F
+
+
+0
+6
+5
+lsts-conn
+USB_C_Receptacle_JAE_DX07S016JA1R1500
+USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780
+USB C Type-C Receptacle SMD USB 2.0
+0
+22
+17
+lsts-conn
+USB_Micro-AB_Molex_47590-0001
+Micro USB AB receptable, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)
+Micro AB USB SMD
+0
+10
+6
+lsts-conn
+USB_Micro-B_Molex-105133-0001
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+lsts-conn
+USB_Micro-B_Molex-105133-0031
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+lsts-conn
+USB_Micro-B_Molex_47346-0001
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
+Micro B USB SMD
+0
+11
+6
+lsts-conn
+WR-PHD
+
+
+0
+5
+5
+lsts-conn
+XT30-FEMALE
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+XT30-MALE
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+lsts-conn
+XT60_FEMALE
+
+
+0
+2
+2
+lsts-conn
+XT60_MALE
+
+
+0
+2
+2
+lsts-conn
+XT90-Horiz
+
+
+0
+40
+2
+lsts-conn
+XT90_FEMALE
+
+
+0
+2
+2
+lsts-conn
+XT90_MALE
+
+
+0
+2
+2
+lsts-conn
+XT150-F
+AMASS  XT150, https://www.tme.eu/Document/4118dd35efb36c9cb4c8686f960c490e/XT150%20SPEC.pdf
+Power Connector
+0
+1
+1
+lsts-conn
+XT150-M
+AMASS  XT150, https://www.tme.eu/Document/4118dd35efb36c9cb4c8686f960c490e/XT150%20SPEC.pdf
+Power Connector
+0
+1
+1
+lsts-conn
+flat_5x2
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+10
+10
+lsts-conn
+pogopin
+
+
+0
+1
+1
+lsts-conn
+testpoint
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+1
+1
+lsts-conn
+u.fl
+
+
+0
+3
+2
+lsts-conn
+uM-4W-90
+
+
+0
+4
+4
+lsts-conn
+uSD_503398-1892
+503398-1892
+Connector
+0
+14
+14
+lsts-conn
+uSD_DM3D
+
+
+0
+14
+8
+lsts-conn
+via
+
+
+0
+1
+1
+lsts-conn
+vtol-bus
+
+
+0
+16
+16
+lsts-devices
+2JCP3533I-0x
+
+
+0
+1
+1
+lsts-devices
+3DM-GX1-DUMMY
+
+
+0
+4
+4
+lsts-devices
+3DM-GX3-25
+
+
+0
+3
+3
+lsts-devices
+3DM-GX3-25-INV
+
+
+0
+13
+11
+lsts-devices
+78SR-x
+
+
+0
+3
+3
+lsts-devices
+78SRH-x
+
+
+0
+3
+3
+lsts-devices
+3386F-1-103LF
+
+
+0
+3
+3
+lsts-devices
+ADIS16488
+
+
+0
+28
+25
+lsts-devices
+ARGOS_ARTIC-R2_Shield
+https://www.sparkfun.com/products/17236
+
+0
+28
+28
+lsts-devices
+ARGOS_ARTIC-R2_Shield_onlyO2Used
+https://www.sparkfun.com/products/17236
+
+0
+10
+10
+lsts-devices
+ARGOS_IOTA
+ARGOS IOTA, https://www.sparkfun.com/products/17984
+Argos
+0
+24
+24
+lsts-devices
+B82464-G4
+
+Epcos Inductor
+0
+2
+2
+lsts-devices
+B82472-G4
+
+Epcos Inductor
+0
+2
+2
+lsts-devices
+B82477G4
+
+
+0
+2
+2
+lsts-devices
+BEI15
+
+
+0
+6
+6
+lsts-devices
+BME280
+
+
+0
+8
+8
+lsts-devices
+BME280_adpt
+
+
+0
+4
+4
+lsts-devices
+BMP180
+
+
+0
+7
+7
+lsts-devices
+BMP180-BRD
+
+
+0
+7
+5
+lsts-devices
+BTM400
+
+
+0
+34
+34
+lsts-devices
+BatteryHolder_Keystone_106_1x2032
+Keystone 106, https://www.keyelco.com/product-pdf.cfm?p=720
+
+0
+2
+2
+lsts-devices
+BatteryHolder_Keystone_1058_1x2032
+http://www.keyelco.com/product-pdf.cfm?p=14028
+Keystone type 1058 coin cell retainer
+0
+2
+2
+lsts-devices
+BatteryHolder_Keystone_1060_1x2032
+http://www.keyelco.com/product-pdf.cfm?p=726
+CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+lsts-devices
+BatteryHolder_MPD_BC2003_1x2032
+http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf
+BC2003 CR2032 2032 Battery Holder
+0
+3
+2
+lsts-devices
+BatteryHolder_Seiko_MS621F
+Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
+Seiko MS621F
+0
+2
+2
+lsts-devices
+BeagleBoneBlack
+
+
+0
+96
+92
+lsts-devices
+BeagleBoneBlack_cmts
+
+
+0
+94
+92
+lsts-devices
+Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering
+Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Bosch LGA NoLead
+0
+8
+8
+lsts-devices
+Bosch_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
+Bosch  LGA, 12 Pin (https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bma456-ds000.pdf#page=91)
+Bosch LGA NoLead
+0
+12
+12
+lsts-devices
+C5CB
+
+
+0
+2
+2
+lsts-devices
+CC10-xxxxSF-E
+
+
+0
+9
+7
+lsts-devices
+CC10-xxxxSR-E
+
+
+0
+7
+7
+lsts-devices
+CC3200MOD
+
+
+0
+63
+63
+lsts-devices
+CC3200MOD-2
+
+
+0
+63
+63
+lsts-devices
+CHS120xxxx
+COSEL CHS400 Series, https://en.cosel.co.jp/tool/tag/pdf/CHS_manual.pdf
+COSEL dcdc tht 120w
+0
+8
+8
+lsts-devices
+CHS400xxxx
+COSEL CHS400 Series, https://en.cosel.co.jp/tool/tag/pdf/CHS_manual.pdf
+COSEL dcdc tht 400w
+0
+8
+8
+lsts-devices
+CM7V-T1A
+
+
+0
+2
+2
+lsts-devices
+CONV_IRM-30-15
+
+
+0
+4
+4
+lsts-devices
+CONV_IRM-60-12
+
+
+0
+4
+4
+lsts-devices
+CONV_PSK-40D-12
+
+
+0
+4
+4
+lsts-devices
+COSEL_MGFW80
+COSEL MGFx80 Series, DC-DC 80W, DC9 - 36V or DC18 - 76V, https://en.cosel.co.jp/tool/tag/pdf/manual_mg_e.pdf
+COSEL dcdc tht 80w
+0
+6
+6
+lsts-devices
+CQB150W48S24
+CQB150W-48S24
+Power Supply
+0
+10
+10
+lsts-devices
+CR-1220
+
+
+0
+2
+2
+lsts-devices
+CR1220-HFN
+Panasonic CR-1220/HFN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D164.pdf
+battery CR-1220 coin cell horizontal
+0
+2
+2
+lsts-devices
+CR1632-HFN
+Panasonic CR-1220/HFN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D164.pdf
+battery CR-1220 coin cell horizontal
+0
+2
+2
+lsts-devices
+CR2032-HF
+
+
+0
+2
+2
+lsts-devices
+ComputeModule4
+https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf#page=11
+
+0
+200
+200
+lsts-devices
+Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+lsts-devices
+Crystal_SMD_Abracon_ABMM2-4Pin_6x3.6mm
+Abracon Miniature Ceramic Smd Crystal ABMM2 https://abracon.com/Resonators/ABMM2.pdf, 6.0x3.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+lsts-devices
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+lsts-devices
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+lsts-devices
+DEM8045C
+
+
+0
+2
+2
+lsts-devices
+DM3AT-SF-PEJM5
+
+
+0
+14
+9
+lsts-devices
+DMS_Nasa
+
+
+0
+0
+0
+lsts-devices
+Dialight_3mm_591-2301-0xx
+Led Right Angle (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)
+Led SMD 3mm Right Angle
+0
+2
+2
+lsts-devices
+E48SC12010
+Delta E48SC Series, http://filecenter.deltaww.com/Products/download/01/0102/datasheet/DS_H48SA28016.pdf
+COSEL dcdc tht 120W
+0
+8
+8
+lsts-devices
+EC-EZO
+
+
+0
+6
+6
+lsts-devices
+EC5SBW-48S12
+
+
+0
+6
+6
+lsts-devices
+EHHD006A0B41Z
+
+
+0
+8
+8
+lsts-devices
+ESP-WROOM-02
+http://espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf
+ESP WROOM-02 espressif esp8266ex
+0
+19
+19
+lsts-devices
+ESP-WROOM-02_tht
+http://espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf
+ESP WROOM-02 espressif esp8266ex
+0
+19
+19
+lsts-devices
+ESP32-PICO-KIT
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-pico-kit.html
+
+0
+40
+40
+lsts-devices
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+lsts-devices
+ESP32-WROOM-32
+
+
+0
+39
+39
+lsts-devices
+ESP32-WROOM-32U
+https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+
+0
+39
+39
+lsts-devices
+ESP8266
+
+
+0
+8
+8
+lsts-devices
+EVALSP820-XS
+Compact evaluation board for STSPIN820 ,https://www.st.com/resource/en/user_manual/dm00516112-getting-started-with-the-evalsp820xs-evaluation-board-stmicroelectronics.pdf
+STSPIN820
+0
+16
+16
+lsts-devices
+FA-238_CRYSTAL
+
+
+0
+4
+4
+lsts-devices
+FGPMMOPA6H
+
+
+0
+20
+20
+lsts-devices
+FMS006Z-2001-1_SW
+
+
+0
+10
+8
+lsts-devices
+FMS006Z-2001-1_SW_WCB
+
+
+0
+10
+8
+lsts-devices
+FUSE-HOLDER-5x20
+https://pt.rs-online.com/web/p/montajes-para-pcb/0563756/?relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D7074266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673723D2673743D4B4559574F52445F53494E474C455F414C5048415F4E554D455249432677633D424F5448267573743D43512D3230304354267374613D43512D323030435426&searchHistory=%7B%22enabled%22%3Atrue%7D
+
+0
+2
+2
+lsts-devices
+Fuse_Littelfuse-NANO2-451_453
+Littelfuse NANO2 https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf
+Fuse Nano2
+0
+2
+2
+lsts-devices
+Fuse_Littelfuse-NANO2-463
+Littelfuse NANO2, Packeging EIA-RS-481-2, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_463_datasheet.pdf.pdf
+Fuse Nano2
+0
+2
+2
+lsts-devices
+Fuseholder_Littelfuse_Nano2_157x
+Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf
+SMD Nano2 holder
+0
+2
+2
+lsts-devices
+HLK-PM03
+
+
+0
+4
+4
+lsts-devices
+Hirose-FX8.100S-SV1XX
+
+
+0
+204
+200
+lsts-devices
+IRIDIUM_9602_SBD
+Iridium 9602 SBD
+
+0
+34
+23
+lsts-devices
+Iridium_9523
+Modem Iridium 9523, http://hhccomm.com/attachment/downloads/20161014854151.pdf - https://www.molex.com/pdm_docs/sd/538850408_sd.pdf
+Iridium 9523
+0
+54
+40
+lsts-devices
+JAE_uSIM_SF53S006VCBR2000
+https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf
+microSIM GSM Card
+0
+14
+7
+lsts-devices
+KHHD006A0A41Z
+http://www.farnell.com/datasheets/1855717.pdf?_ga=2.172900965.754640225.1553157721-1166708506.1551350787
+	Isolated Board Mount DC/DC Converter, Hammerhead, 1 Output, 30 W, 5 V, 6 A 
+0
+8
+8
+lsts-devices
+Keystone_3000_1x12mm-CoinCell
+http://www.keyelco.com/product-pdf.cfm?p=777
+Keystone type 3000 coin cell retainer
+0
+4
+2
+lsts-devices
+LCD_IPS_1.3inch
+
+
+0
+14
+12
+lsts-devices
+LDU4860Sxx0
+
+
+0
+9
+9
+lsts-devices
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+lsts-devices
+Leak
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+10
+10
+lsts-devices
+M3-ATX
+
+
+0
+22
+20
+lsts-devices
+MC55i
+
+
+0
+53
+50
+lsts-devices
+MDS-100BPS24
+
+
+0
+4
+4
+lsts-devices
+MT3329
+
+
+0
+12
+10
+lsts-devices
+Meloa_IMU
+
+
+0
+8
+4
+lsts-devices
+Meloa_IMU_v2
+https://pt.mouser.com/datasheet/2/181/M20-781-1022966.pdf
+
+0
+8
+4
+lsts-devices
+Meloa_IMU_v3
+
+
+0
+4
+1
+lsts-devices
+OKR-T-3-W12-C
+
+
+0
+5
+5
+lsts-devices
+PC104
+
+
+0
+4
+4
+lsts-devices
+PC104-DUMMY-BOARD
+
+
+0
+4
+4
+lsts-devices
+PDQE15-D
+CUI DC/DC 15 Watt, https://www.cui.com/product/resource/pdqe15-d.pdf
+DC/DC
+0
+6
+6
+lsts-devices
+PT2710XX
+HIGHLY SENSITIVE DIP MINIATURE RELAY
+HIGHLY SENSITIVE DIP MINIATURE RELAY
+0
+8
+8
+lsts-devices
+Q2687
+
+
+0
+104
+101
+lsts-devices
+Quectel_EC25
+GSM NB-IoT module, 32x29.6x2.4mm, https://www.quectel.com/UploadImage/Downlad/Quectel_EG25-G_Hardware_Design_V1.2.pdf
+GSM 3G 4G module 
+0
+348
+132
+lsts-devices
+Quectel_EG25-G
+GSM NB-IoT module, 32x29.6x2.4mm, https://www.quectel.com/UploadImage/Downlad/Quectel_EC25_Hardware_Design_V2.3.pdf
+GSM 3G 4G module 
+0
+268
+132
+lsts-devices
+R-5xx.xxA
+
+
+0
+12
+12
+lsts-devices
+R-78HBxx-0.5_embedded
+
+
+0
+3
+3
+lsts-devices
+R-78HBxxx-0.5
+
+
+0
+3
+3
+lsts-devices
+R-78HBxxx-0.5L
+
+
+0
+3
+3
+lsts-devices
+R-78HBxxx-2.0
+
+
+0
+3
+3
+lsts-devices
+R-785.0-1.0
+
+
+0
+3
+3
+lsts-devices
+RCD-24-xxx
+
+
+0
+6
+6
+lsts-devices
+REED-SW
+
+
+0
+2
+2
+lsts-devices
+RELE
+HIGHLY SENSITIVE DIP MINIATURE RELAY
+HIGHLY SENSITIVE DIP MINIATURE RELAY
+0
+8
+8
+lsts-devices
+RN42
+
+
+0
+36
+32
+lsts-devices
+RN4020
+http://ww1.microchip.com/downloads/en/DeviceDoc/50002279B.pdf
+
+0
+26
+24
+lsts-devices
+RV-1805-C3
+https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf
+
+0
+10
+10
+lsts-devices
+RV-3028-C7
+MicroCrystal C7, https://www.microcrystal.com/fileadmin/Media/Products/RTC/App.Manual/RV-3028-C7_App-Manual.pdf
+MicroCrystal C7
+0
+8
+8
+lsts-devices
+RasperryPi2
+
+
+0
+44
+40
+lsts-devices
+RasperryPi2_outline
+
+
+0
+4
+0
+lsts-devices
+RasperryPi_Zero
+Raspberry Pi Zero, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+connector Raspberry Pi Zero top entry
+0
+40
+40
+lsts-devices
+SDCard_2041021-3_2
+2041021-3_2
+Connector
+0
+17
+17
+lsts-devices
+SIMCom_SIM800C_SMT-42
+
+
+0
+42
+42
+lsts-devices
+SMF_OMNI-BLOK
+
+
+0
+2
+2
+lsts-devices
+SR10S1V8
+
+
+0
+3
+3
+lsts-devices
+SSR_RP1A23D5
+
+
+0
+4
+4
+lsts-devices
+SW_SPDT_REED_MDSM-DTR
+Littelfuse Reed Switch, https://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_dt_datasheet.pdf.pdf
+reed switch
+0
+3
+3
+lsts-devices
+SW_SPST_Angled
+
+
+0
+4
+2
+lsts-devices
+SW_SPST_CK_KSR231GLFS
+https://docs-emea.rs-online.com/webdocs/129c/0900766b8129cd35.pdf
+SPST button tactile switch
+0
+2
+2
+lsts-devices
+Solid_state_relay_CPC40055ST
+
+
+0
+4
+4
+lsts-devices
+StampAdapter2
+
+
+0
+84
+80
+lsts-devices
+TDR-3
+
+
+0
+7
+7
+lsts-devices
+THD-10
+
+
+0
+8
+8
+lsts-devices
+THD-12
+
+
+0
+9
+9
+lsts-devices
+TRACO-TEN40
+Connecteurs 2 pins
+CONN DEV
+0
+6
+6
+lsts-devices
+TRACO-TEN40-HEAT
+Connecteurs 2 pins
+CONN DEV
+0
+6
+6
+lsts-devices
+TRACO_TEN-6N
+Traco DC/DC 6 Watt, https://www.tracopower.com/sites/default/files/products/datasheets/ten6n_datasheet.pdf
+DC/DC
+0
+8
+8
+lsts-devices
+TRACO_THN15
+Traco DC/DC 15 Watt, https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf
+DC/DC
+0
+5
+5
+lsts-devices
+TRACO_THN15_D
+Traco DC/DC 15 Watt, https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf
+DC/DC
+0
+6
+6
+lsts-devices
+TRACO_THN30
+Traco DC/DC 30 Watt, https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf
+DC/DC
+0
+6
+6
+lsts-devices
+TSL2561
+
+
+0
+5
+5
+lsts-devices
+TWR-Case-C4
+
+
+0
+7
+7
+lsts-devices
+Taoglas_GPS_18x18x4mm
+
+
+0
+1
+1
+lsts-devices
+Taoglas_GPS_25x25x4mm
+
+
+0
+1
+1
+lsts-devices
+UEI15
+
+
+0
+6
+6
+lsts-devices
+UMH3N
+Mouser:UMH3NTN
+
+0
+6
+6
+lsts-devices
+USON-10_2.5x1.0mm_P0.5mm
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
+0
+10
+10
+lsts-devices
+UWE-xxxx-Q12
+UWE-Q12 Series, https://www.murata.com/products/productdata/8807040516126/uwe-q12.pdf
+Murata dcdc tht 120w
+0
+8
+8
+lsts-devices
+UWS-12-4.5-Q48P-C
+
+
+0
+6
+6
+lsts-devices
+WE-PD
+
+
+0
+2
+2
+lsts-devices
+WE-TPC-3816
+Inductor, WE-TPC, Wuerth, SMD, http://katalog.we-online.de/pbs/datasheet/744031220.pdf
+Inductor WE-TPC Wuerth SMD
+0
+10
+2
+lsts-devices
+WE-TPC-4828
+
+
+0
+2
+2
+lsts-devices
+XBEE
+
+
+0
+20
+20
+lsts-devices
+XBEE_PRO
+
+
+0
+20
+20
+lsts-devices
+battery_18650
+battery 18650
+18650
+0
+2
+2
+lsts-devices
+battery_18650_H
+battery 18650
+18650
+0
+3
+2
+lsts-devices
+battery_18650_SMD
+Battery 18650
+18650
+0
+2
+2
+lsts-devices
+battery_LIR2450
+battery 18650
+18650
+0
+3
+2
+lsts-devices
+fuse
+
+
+0
+2
+2
+lsts-devices
+hall_wcb
+
+
+0
+3
+3
+lsts-devices
+hg1700ag
+
+
+0
+16
+15
+lsts-devices
+keller_Series_6LD_HP
+
+
+0
+5
+5
+lsts-devices
+keller_Series_7LD
+
+keller
+0
+5
+5
+lsts-devices
+leakv2
+
+
+0
+11
+2
+lsts-devices
+mag_switsh_smd
+
+
+0
+3
+3
+lsts-devices
+mag_switsh_smd_wcb
+
+
+0
+3
+3
+lsts-devices
+microSD_HC_Hirose_DM3BT-DSF-PEJS
+Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
+Micro SD
+0
+16
+11
+lsts-devices
+microSD_HC_Molex_47571-0001
+Micro SD, SMD, right-angle, (https://www.molex.com/pdm_docs/sd/475710001_sd.pdf)
+Micro SD
+0
+13
+11
+lsts-devices
+microSD_microSIM_Molex_1041681620
+microSD and microSIM connector, https://www.molex.com/pdm_docs/sd/1041681620_sd.pdf
+Combo Connector microSD and microSIM
+0
+25
+18
+lsts-devices
+microSIM_Molex_78646-3001
+https://www.molex.com/pdm_docs/sd/786463001_sd.pdf
+microSIM GSM Card
+0
+14
+7
+lsts-devices
+pcabos
+
+
+0
+41
+10
+lsts-devices
+picloureiro
+44M1 MICRO LEAD FRAME PACKAGE (MLF)
+44M1 MICRO LEAD FRAME PACKAGE (MLF)
+0
+0
+0
+lsts-devices
+reed_switch
+
+
+0
+3
+3
+lsts-devices
+seeed_HM-11
+seed HM-11 bluethooth module,https://files.seeedstudio.com/wiki/Bluetooth_V4.0_HM_11_BLE_Module/img/HM-11_Pinout.jpg
+HM-11 bluethooth
+0
+16
+16
+lsts-devices
+traco-thd15
+Connecteurs 2 pins
+CONN DEV
+0
+5
+5
+lsts-devices
+uSD_Solder
+
+
+0
+8
+8
+lsts-devices
+ublox_MAX
+ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)
+GPS ublox MAX 6/7/8
+0
+18
+18
+lsts-devices
+ublox_NEO
+ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
+GPS ublox NEO 6/7/8
+0
+24
+24
+lsts-devices
+ublox_NEO_Programing
+ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
+GPS ublox NEO 6/7/8
+0
+24
+24
+lsts-devices
+ublox_NINA-B112
+nrf52832 Bluetooth , https://www.u-blox.com/sites/default/files/NINA-B1_DataSheet_%28UBX-15019243%29.pdf
+
+0
+42
+31
+lsts-devices
+ublox_NINA-W102
+ESP32 Wifi/Bluetooth, https://www.u-blox.com/sites/default/files/NINA-W10_DataSheet_%28UBX-17065507%29.pdf
+
+0
+48
+37
+lsts-devices
+ublox_SAM-M8Q
+GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
+ublox SAM-M8Q
+0
+100
+20
+lsts-devices
+ublox_SAM-M8Q_HandSolder
+GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
+ublox SAM-M8Q
+0
+20
+20
+lsts-discretes
+1N4448X
+
+
+0
+2
+2
+lsts-discretes
+1N5819
+Diode 3 pas
+DIODE DEV
+0
+2
+2
+lsts-discretes
+12VDC_Relay_hr502cd012
+
+
+0
+8
+8
+lsts-discretes
+ABM7
+
+
+0
+2
+2
+lsts-discretes
+Allegro_CB_PFF
+Allegro MicroSystems, CB-PFF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx) !PADS 4-5 DO NOT MATCH DATASHEET!
+Allegro CB-PFF
+0
+37
+5
+lsts-discretes
+BD01
+
+
+0
+2
+2
+lsts-discretes
+Cristal-Mercury-MQ
+
+
+0
+4
+4
+lsts-discretes
+D3
+Diode 3 pas
+DIODE DEV
+0
+2
+2
+lsts-discretes
+D62CB
+
+
+0
+2
+2
+lsts-discretes
+DO-201AD
+DIODE
+DIODE
+0
+2
+2
+lsts-discretes
+DO-201AD-LARGE
+DIODE
+DIODE
+0
+2
+2
+lsts-discretes
+DO-214AA
+
+
+0
+2
+2
+lsts-discretes
+DO-214AB
+
+
+0
+2
+2
+lsts-discretes
+DO-214AC
+
+
+0
+2
+2
+lsts-discretes
+DO-216AA
+
+
+0
+2
+2
+lsts-discretes
+DO219
+DO214AC PACKAGE. MONODIRECTIONAL.
+DO214AC PACKAGE. MONODIRECTIONAL.
+0
+2
+2
+lsts-discretes
+DRA73
+
+
+0
+2
+2
+lsts-discretes
+DRA127
+
+
+0
+2
+2
+lsts-discretes
+D_PowerDI-5
+PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+PowerDI diode vishay
+0
+3
+2
+lsts-discretes
+D_Powermite_KA
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+lsts-discretes
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+lsts-discretes
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+lsts-discretes
+Diodes_SIP-3
+Diodes SIP-3, 1.27mm Pitch
+Diodes SIP-3
+0
+3
+3
+lsts-discretes
+Diodes_SIP-3_4.1x1.5mm_P2.65mm
+Diodes SIP-3 Ammo Pack, 2.65mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf)
+Diodes SIP-3 Ammo Pack
+0
+3
+3
+lsts-discretes
+ECS801230QDSTR
+ECS-80-12-30Q-DS-TR-1
+Crystal or Oscillator
+0
+2
+2
+lsts-discretes
+EVQP2
+
+
+0
+4
+2
+lsts-discretes
+HC49
+
+
+0
+2
+2
+lsts-discretes
+HC49S
+
+
+0
+2
+2
+lsts-discretes
+HC49U-V
+CRYSTAL
+CRYSTAL
+0
+2
+2
+lsts-discretes
+Infineon_PG-TSON-8-3_GDS
+https://www.infineon.com/cms/en/product/packages/PG-TSON/PG-TSON-8-3/
+PG-TSON-8-3
+0
+19
+3
+lsts-discretes
+L-1890
+
+
+0
+2
+2
+lsts-discretes
+LED_0603
+LED 0603 smd package
+
+0
+2
+2
+lsts-discretes
+LED_ANT
+Connecteurs 2 pins
+CONN DEV
+0
+2
+2
+lsts-discretes
+LED_ANT_2
+Connecteurs 2 pins
+CONN DEV
+0
+2
+2
+lsts-discretes
+LED_ASMB-KTF0-0A306
+2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100
+Tricolor LED
+0
+4
+4
+lsts-discretes
+LED_Avago_PLCC6_3x2.8mm
+https://docs.broadcom.com/docs/AV02-3793EN
+LED Avago PLCC-6 ASMT-YTB7-0AA02
+0
+6
+6
+lsts-discretes
+LED_Cree-PLCC6_4.7x1.5mm
+4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf
+LED Cree PLCC-6
+0
+6
+6
+lsts-discretes
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+lsts-discretes
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+lsts-discretes
+LED_D5.0mm-4_RGB_SMD
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+lsts-discretes
+LED_PLCC-2
+LED PLCC-2 SMD package
+LED PLCC-2 SMD
+0
+2
+2
+lsts-discretes
+LED_PLCC-2_heatsink
+
+
+0
+2
+2
+lsts-discretes
+LPS5030
+
+
+0
+2
+2
+lsts-discretes
+LRTB_GFTM
+
+
+0
+6
+6
+lsts-discretes
+LRTB_GFTM_ESPECIAL
+
+
+0
+6
+6
+lsts-discretes
+LRTB_GFTM_WCB
+
+
+0
+6
+6
+lsts-discretes
+MULTIWATT-11
+MULIWATT 11 LEAD
+MULIWATT 11 LEAD
+0
+11
+11
+lsts-discretes
+MiniMelf
+
+
+0
+2
+2
+lsts-discretes
+NC38LF
+
+
+0
+2
+2
+lsts-discretes
+NFM21CC
+
+
+0
+3
+3
+lsts-discretes
+NRS5020
+
+
+0
+2
+2
+lsts-discretes
+PC357
+
+
+0
+4
+4
+lsts-discretes
+PG-HSOF-8-1
+http://www.infineon.com/dgdl/Infineon-PG-HSOF-8-1_IPT012N08N5ATMA1-PD-v01_00-EN.pdf?fileId=5546d46254e133b40154f177ae634cdc
+
+0
+67
+3
+lsts-discretes
+PowerPAK_1212-8
+PowerPAK 1212-8 Single (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72597/72597.pdf)
+Vishay PowerPAK 1212-8 Single
+0
+5
+3
+lsts-discretes
+PowerPAK_SO-8L_Single
+PowerPAK SO-8L Single (https://www.vishay.com/docs/72286/an826.pdf#page=25)
+PowerPAK SO-8L Single
+0
+5
+5
+lsts-discretes
+PowerPAK_SO-8_Single
+PowerPAK SO-8 Single (https://www.vishay.com/docs/72286/an826.pdf#page=23)
+PowerPAK SO-8 Single
+0
+9
+5
+lsts-discretes
+Power_supply_RAC03‿K, 3.3V_3w
+
+
+0
+4
+4
+lsts-discretes
+RS1006FL_R1_00001
+
+
+0
+2
+2
+lsts-discretes
+SDR0604
+
+
+0
+2
+2
+lsts-discretes
+SM1210L
+
+CMS SM
+0
+2
+2
+lsts-discretes
+SM2512
+
+
+0
+2
+2
+lsts-discretes
+SMA-DIODE
+
+
+0
+2
+2
+lsts-discretes
+SOD-123
+
+
+0
+2
+2
+lsts-discretes
+SOD-123-AC
+
+
+0
+2
+2
+lsts-discretes
+SOD-323
+
+
+0
+2
+2
+lsts-discretes
+SOD-962-2
+
+
+0
+2
+2
+lsts-discretes
+SOIC08N_IRF7425PBF
+IRF7425PBF
+
+0
+8
+3
+lsts-discretes
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+6
+3
+lsts-discretes
+SOT-89-3-BCE
+SOT-89-3
+SOT-89-3
+0
+6
+3
+lsts-discretes
+SOT-223
+
+
+0
+4
+4
+lsts-discretes
+SOT-223-4
+
+
+0
+5
+5
+lsts-discretes
+SOT-223-5
+
+
+0
+6
+6
+lsts-discretes
+SOT-223_BCE
+
+
+0
+4
+3
+lsts-discretes
+SOT-563-6
+
+
+0
+6
+6
+lsts-discretes
+SOT23
+
+
+0
+3
+3
+lsts-discretes
+SOT23_BC817
+
+
+0
+3
+3
+lsts-discretes
+SOT23_DSG
+
+
+0
+3
+3
+lsts-discretes
+SOT23_GSD
+
+
+0
+3
+3
+lsts-discretes
+SOT23_ZXCT1009
+
+
+0
+3
+3
+lsts-discretes
+SOT25
+
+
+0
+5
+5
+lsts-discretes
+SOT26-6
+
+
+0
+6
+6
+lsts-discretes
+SOT143
+
+
+0
+4
+4
+lsts-discretes
+SPDT
+
+
+0
+5
+3
+lsts-discretes
+Snubber_B32924
+
+
+0
+2
+2
+lsts-discretes
+Solid_state_relay_CPC40055ST
+
+
+0
+4
+4
+lsts-discretes
+TO-92_CBE
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+lsts-discretes
+TO-92_Inline_Narrow
+
+
+0
+3
+3
+lsts-discretes
+TO-92_Inline_Wide
+
+
+0
+3
+3
+lsts-discretes
+TO-236-GSD
+
+
+0
+3
+3
+lsts-discretes
+TO-263-2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263
+0
+7
+3
+lsts-discretes
+TO-263-7
+
+
+0
+87
+3
+lsts-discretes
+TO-277A
+Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
+TO-277A SMPC
+0
+12
+3
+lsts-discretes
+TO126_VERT
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+2
+2
+lsts-discretes
+TO220GDS_INVERTED
+Transistor VMOS Irf530, TO220
+TR TO220 DEV
+0
+4
+4
+lsts-discretes
+TO220GDS_VERT
+TO220 vertical mosfet
+TR TO220
+0
+3
+3
+lsts-discretes
+TO220vert
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+lsts-discretes
+TO263AB
+
+
+0
+3
+2
+lsts-discretes
+TXC-7A
+
+
+0
+2
+2
+lsts-discretes
+TXC-7M
+
+
+0
+4
+4
+lsts-discretes
+Texas_WSON-6_DQK
+Texas WSON-6 DQK, http://www.ti.com/lit/ds/symlink/csd16301q2.pdf
+Texas WSON6 2x2mm
+0
+10
+3
+lsts-discretes
+XLampXDB
+
+
+0
+5
+3
+lsts-ic
+Analog_SOIC-14_3.9x8.7mm_P1.27mm
+SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+14
+14
+lsts-ic
+DCK
+
+
+0
+6
+6
+lsts-ic
+DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm
+8-Lead Plastic Dual Flat, No Lead Package (MC) - 2x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.5
+0
+13
+9
+lsts-ic
+DFN-8-1EP_3x2mm_P0.45mm_EP1.65x1.35mm
+DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3538fb.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+13
+9
+lsts-ic
+DFN-12-1EP_3x3mm_P0.4mm_EP1.7x2.45mm
+DFN, 12 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-tdfn-12pin-l123x3c), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+17
+13
+lsts-ic
+DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm
+DHC Package; 16-Lead Plastic DFN (5mm x 3mm) (see Linear Technology DFN_16_05-08-1706.pdf)
+DFN 0.5
+0
+27
+17
+lsts-ic
+DFN4
+
+
+0
+4
+4
+lsts-ic
+DFN6_2x3mm
+
+
+0
+6
+6
+lsts-ic
+DFN10
+
+
+0
+11
+11
+lsts-ic
+DFN10-2
+
+
+0
+11
+11
+lsts-ic
+DIP8_Timer_NE555
+
+
+0
+8
+8
+lsts-ic
+DIP_Switches
+
+
+0
+16
+16
+lsts-ic
+HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+34
+25
+lsts-ic
+HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+39
+25
+lsts-ic
+HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm
+HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+50
+41
+lsts-ic
+HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+67
+41
+lsts-ic
+HVSSOP-8
+Power Pad VSSOP-8
+Integrated Circuit
+0
+15
+9
+lsts-ic
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+lsts-ic
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+39
+25
+lsts-ic
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+LFCSP DFN_QFN
+0
+29
+25
+lsts-ic
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+LFCSP DFN_QFN
+0
+39
+25
+lsts-ic
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+15
+9
+lsts-ic
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm_ThermalVias
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+22
+9
+lsts-ic
+LPS3015
+LPS3015
+
+0
+2
+2
+lsts-ic
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+lsts-ic
+LQFP-100_14x14mm_P0.5mm
+LQFP100: plastic low profile quad flat package; 100 leads; body 14 x 14 x 1.4 mm (see NXP sot407-1_po.pdf and sot407-1_fr.pdf)
+QFP 0.5
+0
+100
+100
+lsts-ic
+LQFP48
+
+
+0
+48
+48
+lsts-ic
+LQFP64
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+lsts-ic
+LQFP100
+
+
+0
+100
+100
+lsts-ic
+MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
+MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
+SSOP 0.65
+0
+13
+9
+lsts-ic
+MSOP-10_3x3mm_P0.5mm
+10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.5
+0
+10
+10
+lsts-ic
+MSOP8
+8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+lsts-ic
+MSOP8E
+
+
+0
+9
+9
+lsts-ic
+MSOP16
+
+
+0
+17
+17
+lsts-ic
+QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
+QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+21
+17
+lsts-ic
+QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
+QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+26
+17
+lsts-ic
+QFN-24_3x3mm_P0.4mm
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm
+QFN 0.4
+0
+24
+24
+lsts-ic
+QFN-24_3x3mm_P0.4mm_NoMask
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm
+QFN 0.4
+0
+25
+24
+lsts-ic
+QFN-24_3x3mm_P0.4mm_sink
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm
+QFN 0.4
+0
+25
+25
+lsts-ic
+QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm
+QFN, 28 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/3555fe.pdf#page=32), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+35
+29
+lsts-ic
+QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias
+QFN, 28 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/3555fe.pdf#page=32), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+48
+29
+lsts-ic
+QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00002304A.pdf (page 43)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+90
+65
+lsts-ic
+QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm_ThermalVias
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00002304A.pdf (page 43)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+127
+65
+lsts-ic
+QFN10-USB3740
+
+
+0
+10
+10
+lsts-ic
+QFN16
+
+
+0
+33
+17
+lsts-ic
+QFN16-5x3
+
+
+0
+16
+16
+lsts-ic
+QFN24
+
+
+0
+25
+25
+lsts-ic
+QFN24-2
+
+
+0
+25
+25
+lsts-ic
+QFN28
+
+
+0
+29
+29
+lsts-ic
+QFN36
+
+
+0
+37
+37
+lsts-ic
+QFN36-2
+
+
+0
+37
+37
+lsts-ic
+QFN48
+
+
+0
+97
+49
+lsts-ic
+QFN56
+
+
+0
+57
+57
+lsts-ic
+QFN56-2
+
+
+0
+57
+57
+lsts-ic
+QFN64
+
+
+0
+65
+65
+lsts-ic
+QFN64-2
+
+
+0
+65
+65
+lsts-ic
+SC-59
+SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
+SC-59
+0
+3
+3
+lsts-ic
+SC59
+
+
+0
+3
+3
+lsts-ic
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+lsts-ic
+SOIC-14_3.9x8.7mm_P1.27mm
+SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+14
+14
+lsts-ic
+SOIC-16_3.9x9.9mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+lsts-ic
+SOIC08N
+
+
+0
+8
+8
+lsts-ic
+SOIC14N
+
+
+0
+14
+14
+lsts-ic
+SOIC16L
+
+
+0
+16
+16
+lsts-ic
+SOIC16N
+
+
+0
+16
+16
+lsts-ic
+SOIC18
+Module CMS SOJ 16 pins tres large
+CMS SOJ
+0
+18
+18
+lsts-ic
+SOIC28W
+
+
+0
+28
+28
+lsts-ic
+SOT-6
+
+
+0
+6
+6
+lsts-ic
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+lsts-ic
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+lsts-ic
+SOT-23-8
+8-pin SOT-23 package, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
+SOT-23-8
+0
+8
+8
+lsts-ic
+SOT-323_SC-70
+SOT-323, SC-70
+SOT-323 SC-70
+0
+3
+3
+lsts-ic
+SOT-343_SC-70-4
+SOT-343, SC-70-4
+SOT-343 SC-70-4
+0
+4
+4
+lsts-ic
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+lsts-ic
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+lsts-ic
+SOT-553
+SOT553
+SOT-553
+0
+5
+5
+lsts-ic
+SOT23
+
+
+0
+3
+3
+lsts-ic
+SOT323-5L
+
+
+0
+5
+5
+lsts-ic
+SSOP-20_3.9x8.7mm_P0.635mm
+SSOP20: plastic shrink small outline package; 24 leads; body width 3.9 mm; lead pitch 0.635; (see http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf)
+SSOP 0.635
+0
+20
+20
+lsts-ic
+SSOP-20_5.3x7.2mm_P0.65mm
+SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+20
+20
+lsts-ic
+SSOP-28_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+lsts-ic
+SSOP8_DCT
+
+
+0
+8
+8
+lsts-ic
+SSOP28
+
+
+0
+28
+28
+lsts-ic
+TDFN-10-1EP_2.5x2mm_P0.4mm_EP1.3x1.4mm
+TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100013.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+13
+11
+lsts-ic
+TDFN-10-1EP_2.5x2mm_P0.4mm_EP1.3x1.4mm_ThermalVias
+TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100013.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+16
+11
+lsts-ic
+TDFN-10-1EP_3x3mm_P0.5mm_EP1.5x2.3mm
+TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+13
+11
+lsts-ic
+TDFN-10-1EP_3x3mm_P0.5mm_EP1.5x2.3mm_ThermalVias
+TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+17
+11
+lsts-ic
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-3)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+lsts-ic
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-3)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
+lsts-ic
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+lsts-ic
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
+lsts-ic
+TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm
+TQFN, 48 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0144.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+58
+49
+lsts-ic
+TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm_ThermalVias
+TQFN, 48 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0144.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+75
+49
+lsts-ic
+TQFP-32_7x7mm_P0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+lsts-ic
+TQFP-100_14x14mm_P0.5mm
+TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+100
+100
+lsts-ic
+TQFP32
+
+
+0
+32
+32
+lsts-ic
+TQFP44
+
+
+0
+44
+44
+lsts-ic
+TQFP64_10x10mm_0.5mm
+
+
+0
+64
+64
+lsts-ic
+TQFP64_14x14mm_0.8mm
+
+
+0
+64
+64
+lsts-ic
+TSOP-6
+
+
+0
+6
+6
+lsts-ic
+TSOP6
+
+
+0
+6
+6
+lsts-ic
+TSOT-23-6
+TSOT-23, 6 Pin (http://www.ti.com/lit/ds/symlink/lm5050-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOT-23 SOT
+0
+6
+6
+lsts-ic
+TSSOP-14_4.4x5mm_P0.65mm
+14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+lsts-ic
+TSSOP-16_4.4x5mm_P0.65mm
+16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+16
+16
+lsts-ic
+TSSOP-20_4.4x6.5mm_P0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+lsts-ic
+TSSOP-30_4.4x7.8mm_P0.5mm
+TSSOP30: plastic thin shrink small outline package; 30 leads; body width 4.4 mm (http://www.ti.com/lit/ds/symlink/bq78350.pdf)
+SSOP 0.5
+0
+30
+30
+lsts-ic
+TSSOP-44_4.4x11.2mm_P0.5mm
+TSSOP44: plastic thin shrink small outline package; 44 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
+SSOP 0.5
+0
+44
+44
+lsts-ic
+TSSOP8
+
+
+0
+8
+8
+lsts-ic
+TSSOP14
+
+
+0
+14
+14
+lsts-ic
+TSSOP14-TI
+
+
+0
+14
+14
+lsts-ic
+TSSOP16
+
+
+0
+16
+16
+lsts-ic
+TSSOP16-TI
+
+
+0
+16
+16
+lsts-ic
+TSSOP20
+
+
+0
+20
+20
+lsts-ic
+TSSOP20_PW
+
+
+0
+20
+20
+lsts-ic
+TSSOP28-Maxim
+
+
+0
+28
+28
+lsts-ic
+TSSOP28-TI
+
+
+0
+28
+28
+lsts-ic
+TSSOP30-TI
+
+
+0
+30
+30
+lsts-ic
+TVP5151
+
+
+0
+32
+32
+lsts-ic
+Texas_DRC0010J
+Texas DRC0010J, VSON10 3x3mm Body, 0.5mm Pitch,  http://www.ti.com/lit/ds/symlink/tps63000.pdf
+Texas VSON10 3x3mm
+0
+17
+11
+lsts-ic
+Texas_DRC0010J_ThermalVias
+Texas DRC0010J, VSON10 3x3mm Body, 0.5mm Pitch,  http://www.ti.com/lit/ds/symlink/tps63000.pdf
+Texas VSON10 3x3mm
+0
+21
+11
+lsts-ic
+Texas_PWSON-N6
+Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf
+Plastic Small Outline No-Lead
+0
+7
+7
+lsts-ic
+Texas_R_PUQFN-N12
+Texas_R_PUQFN-N12 http://www.ti.com/lit/ds/symlink/txb0104.pdf
+Texas_R_PUQFN-N12
+0
+13
+12
+lsts-ic
+Texas_VQFN-RHL-20
+http://www.ti.com/lit/ds/symlink/bq51050b.pdf
+RHL0020A
+0
+33
+21
+lsts-ic
+Texas_VQFN-RHL-20_ThermalVias
+http://www.ti.com/lit/ds/symlink/bq51050b.pdf
+RHL0020A
+0
+41
+21
+lsts-ic
+Texas_VQFN_RNR0011A-11
+RNR0011A, VQFN-11 (http://www.ti.com/lit/ds/symlink/tps61089.pdf, Pag.27)
+RNR0011A
+0
+15
+11
+lsts-ic
+Texas_WSON-10_DQC
+DQC0010A, WSON-10(https://www.ti.com/lit/ds/symlink/bq24210.pdf)
+DQC0010A
+0
+16
+11
+lsts-ic
+UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm
+16-Lead Ultra Thin Plastic Quad Flat, No Lead Package (JQ) - 4x4x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.65
+0
+21
+17
+lsts-ic
+VSON-10
+
+
+0
+23
+11
+lsts-ic
+VSSOP-8_2.4x2.1mm_P0.5mm
+http://www.ti.com/lit/ml/mpds050d/mpds050d.pdf
+VSSOP DCU R-PDSO-G8 Pitch0.5mm
+0
+8
+8
+lsts-ic
+VSSOP8
+
+
+0
+8
+8
+lsts-ic
+VSSOP10
+
+
+0
+10
+10
+lsts-ic
+WSON-6_1.5x1.5mm_P0.5mm
+WSON6, http://www.ti.com/lit/ds/symlink/tlv702.pdf
+WSON6_1.5x1.5mm_P0.5mm
+0
+6
+6
+lsts-ic
+XCVR_ESP32-S3-MINI-1-N8
+
+
+0
+73
+73
+lsts-ic
+XCVR_ESP32-S3-WROOM-1U
+
+
+0
+61
+61
+lsts-logo
+LSTS_logo
+
+
+0
+0
+0
+lsts-logo
+LSTS_name
+
+
+0
+0
+0
+lsts-mecanical
+Fiducial_Small_CopperTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+lsts-mecanical
+Fiducial_Small_CopperTop_Type2
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+0
+1
+0
+lsts-mecanical
+Fiducial_Small_SilkscreenTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+lsts-mecanical
+Fiducial_Small_SilkscreenTop_Type2
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+0
+1
+0
+lsts-mecanical
+MNT-HOLE-6by3.5mm
+
+
+0
+1
+1
+lsts-mecanical
+MountingHole_2.2mm_M2_Pad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
+lsts-mecanical
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+lsts-mecanical
+MountingHole_3.2mm_Pad
+Mounting Hole 3.2mm
+mounting hole 3.2mm
+0
+1
+1
+lsts-mecanical
+MountingHole_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+lsts-mecanical
+MountingHole_3.5mm_Pad
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+lsts-mecanical
+MountingHole_3.5mm_Pad_Via
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+9
+1
+lsts-mecanical
+MountingHole_3mm
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
+0
+0
+0
+lsts-mecanical
+MountingHole_3mm_Pad
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+lsts-mecanical
+MountingHole_3mm_Pad_Via
+Mounting Hole 3mm
+mounting hole 3mm
+0
+9
+1
+lsts-mecanical
+MountingHole_4.3mm_M4
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+lsts-mecanical
+MountingHole_4.3mm_M4_Pad
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+1
+1
+lsts-mecanical
+MountingHole_4.3mm_M4_Pad_Via
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+9
+1
+lsts-nfc
+48x10
+
+
+0
+0
+0
+lsts-nfc
+48x10x7
+
+
+0
+0
+0
+lsts-nfc
+48x10x9
+
+
+0
+0
+0
+lsts-nfc
+48x11
+
+
+0
+0
+0
+lsts-nfc
+48x11x7
+
+
+0
+0
+0
+lsts-nfc
+48x11x9
+
+
+0
+0
+0
+lsts-nfc
+spiral 10 c
+
+
+0
+0
+0
+lsts-passives
+7343-31
+
+
+0
+2
+2
+lsts-passives
+BLM41PG750SN1
+
+
+0
+2
+2
+lsts-passives
+C-size
+
+
+0
+2
+2
+lsts-passives
+C2V8
+Condensateur polarise
+CP
+0
+2
+2
+lsts-passives
+C4x5.5
+
+
+0
+2
+2
+lsts-passives
+C8x11.5
+
+
+0
+2
+2
+lsts-passives
+C12.5H35
+
+
+0
+2
+2
+lsts-passives
+C12.5H35_FLIP
+
+
+0
+2
+2
+lsts-passives
+C12.5V
+
+
+0
+2
+2
+lsts-passives
+C35
+
+
+0
+2
+2
+lsts-passives
+CP_EIA-2012-15_AVX-P
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+lsts-passives
+CP_EIA-7343-43_Kemet-X
+Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+lsts-passives
+CP_Elec_5x5.8
+SMT capacitor, aluminium electrolytic, 5x5.8, Panasonic 
+Capacitor Electrolytic
+0
+2
+2
+lsts-passives
+CP_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
+capacitor electrolytic
+0
+2
+2
+lsts-passives
+CP_Elec_6.3x8.7
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x8.7mm
+capacitor electrolytic
+0
+2
+2
+lsts-passives
+CP_Elec_8x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+lsts-passives
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+lsts-passives
+CP_Radial_D10.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+lsts-passives
+CR-5-2
+
+
+0
+2
+2
+lsts-passives
+CR-6.3-2.5
+
+
+0
+2
+2
+lsts-passives
+CR-6.3-2.5-H
+
+
+0
+2
+2
+lsts-passives
+CR-8-3.5
+
+
+0
+2
+2
+lsts-passives
+CR-10-5
+
+
+0
+2
+2
+lsts-passives
+C_0402
+
+
+0
+2
+2
+lsts-passives
+C_0603
+
+
+0
+2
+2
+lsts-passives
+C_0805
+
+
+0
+2
+2
+lsts-passives
+C_1206
+
+
+0
+2
+2
+lsts-passives
+C_1206_POL
+
+
+0
+2
+2
+lsts-passives
+C_1210
+
+
+0
+2
+2
+lsts-passives
+C_2220
+
+
+0
+2
+2
+lsts-passives
+C_Elec_8x6.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+lsts-passives
+C_SMD_8x10.5
+
+
+0
+2
+2
+lsts-passives
+D2PAK-3
+
+
+0
+3
+3
+lsts-passives
+DLP11S
+
+
+0
+4
+4
+lsts-passives
+DR127-101-R
+DR127-1
+Inductor
+0
+2
+2
+lsts-passives
+EEUFC1J391S
+
+
+0
+2
+2
+lsts-passives
+ELLCTVxxxt
+
+Panasonic Inductor
+0
+2
+2
+lsts-passives
+FK-SMD-H13
+
+
+0
+2
+2
+lsts-passives
+F_1206
+Fuse 1206, https://www.schurter.com/en/datasheet/typ_USF_1206.pdf
+
+0
+2
+2
+lsts-passives
+KEMET-A
+
+
+0
+2
+2
+lsts-passives
+KEMET-B
+
+
+0
+2
+2
+lsts-passives
+L3.5
+
+
+0
+2
+2
+lsts-passives
+LBL-FILT-BIG
+
+
+0
+10
+3
+lsts-passives
+LBL-FILT-SMALL
+
+
+0
+7
+3
+lsts-passives
+LBL-IND
+
+
+0
+2
+2
+lsts-passives
+LBL-TRF
+
+
+0
+10
+6
+lsts-passives
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+lsts-passives
+L_0603
+
+Inductor 0603
+0
+2
+2
+lsts-passives
+L_0603_1608Metric
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+lsts-passives
+L_1206
+
+
+0
+2
+2
+lsts-passives
+L_1206_3216Metric
+Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+lsts-passives
+L_Coilcraft_LPS4018
+SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf
+L Coilcraft LPS4018
+0
+2
+2
+lsts-passives
+L_Coilcraft_LPS6235
+
+
+0
+2
+2
+lsts-passives
+L_Coilcraft_XAL60xx_6.36x6.56mm
+Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
+L Coilcraft XAL60xx
+0
+2
+2
+lsts-passives
+L_Coilcraft_XxL2010
+Coilcraft XPL2010, https://www.coilcraft.com/pdfs/xpl2010.pdf
+Coilcraft XPL2010
+0
+2
+2
+lsts-passives
+L_Coilcraft_XxL4020
+L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
+L Coilcraft XxL4020
+0
+2
+2
+lsts-passives
+L_Sumida_CDRH5D28
+https://products.sumida.com/products/pdf/CDRH5D28.pdf
+
+0
+2
+2
+lsts-passives
+L_Taiyo-Yuden_NR-30xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-30xx, 3.0mmx3.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+lsts-passives
+L_Taiyo-Yuden_NR-50xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-50xx, 4.9mmx4.9mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+lsts-passives
+L_Wurth_WE-LHMI-4012
+Inductor, Wuerth Elektronik, Wuerth_MAPI-4020, 4.0mmx4.0mm
+inductor Wuerth smd
+0
+2
+2
+lsts-passives
+POT
+Connecteur 6 pins
+CONN DEV
+0
+3
+3
+lsts-passives
+POT_Horz
+
+
+0
+3
+3
+lsts-passives
+Pot_P16NP103MAB15
+
+
+0
+3
+3
+lsts-passives
+R56-LBL
+
+
+0
+2
+2
+lsts-passives
+RLS126R
+RLS-126-R-1
+Power Supply
+0
+2
+2
+lsts-passives
+R_0402
+
+
+0
+2
+2
+lsts-passives
+R_0603
+
+
+0
+2
+2
+lsts-passives
+R_0805
+
+
+0
+2
+2
+lsts-passives
+R_1206
+
+
+0
+2
+2
+lsts-passives
+R_2010
+
+
+0
+2
+2
+lsts-passives
+R_2512
+Resistor SMD 2512, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 2512
+0
+2
+2
+lsts-passives
+R_3921
+
+
+0
+2
+2
+lsts-passives
+R_4527
+
+
+0
+2
+2
+lsts-passives
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+lsts-passives
+R_CGS_3522
+Resistor SMD 2512, reflow soldering, Vishay (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F9-1773463-7%7FE%7Fpdf%7FEnglish%7FENG_DS_9-1773463-7_E.pdf)
+resistor GE 3522
+0
+2
+2
+lsts-passives
+R_Yageo_PA2512_0.004
+Resistor SMD 2512, Yageo (https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-PA_E_51_RoHS_10.pdf)
+
+0
+2
+2
+lsts-passives
+SDR1806
+
+
+0
+2
+2
+lsts-passives
+SM2512-KELVIN
+
+
+0
+4
+2
+lsts-passives
+SMD_8x10.5
+
+
+0
+2
+2
+lsts-passives
+SMD_6032–28
+
+
+0
+2
+2
+lsts-passives
+SMT3.5x2.8
+
+
+0
+2
+2
+lsts-passives
+TCK-046
+
+
+0
+2
+2
+lsts-passives
+TantalC_SizeB_EIA-3528-21
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+lsts-passives
+TantalC_SizeD_EIA-7343-31
+
+
+0
+2
+2
+lsts-passives
+Wuerth_36103255_25x25mm
+WE-SHC Shielding Cabinet SMD 25x25mm
+Shielding Cabinet
+0
+24
+1
+lsts-passives
+c_tant_A
+SMT capacitor, tantalum size A
+
+0
+2
+2
+omst-alex
+B-size
+
+
+0
+2
+2
+omst-alex
+D-size
+
+
+0
+2
+2
+omst-alex
+HC49U-H
+CRYSTAL
+CRYSTAL
+0
+2
+2
+omst-alex
+HC49U-V
+CRYSTAL
+CRYSTAL
+0
+2
+2
+omst-alex
+MNT-HOLE
+
+
+0
+1
+1
+omst-alex
+MNT-HOLE-1mm
+
+
+0
+1
+1
+omst-alex
+MNT-HOLE-2mm
+
+
+0
+1
+1
+omst-alex
+MNT-HOLE-3mm1
+
+
+0
+1
+1
+omst-alex
+MNT-HOLE-6mm
+
+
+0
+1
+1
+omst-alex
+TO92
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+omst-alex
+TQFP32
+
+
+0
+32
+32
+omst-alex
+U
+
+
+0
+4
+4
