@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\OneDrive - Universidade do Porto\Electronics\5_Kicad_SVN\Chamber\trunk\Back_Panel\Chamber.kicad_sch</source>
+    <date>26/09/2022 14:15:56</date>
+    <tool>Eeschema (6.0.6)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Mesocosmos_2021/2021</title>
+        <company>ElectricBlue</company>
+        <rev>1</rev>
+        <date>2021-12-01</date>
+        <source>Chamber.kicad_sch</source>
+        <comment number="1" value="Luís Pereira / Bruno Loureiro"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SD_RTC.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MCP23017_Relays.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Temp_Sensors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c5637d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c47e23</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061cc2d13</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062050884</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006205815e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="CP1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a6c10a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a6b79d</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006222e080</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>FTDI-TTL-232R</value>
+      <footprint>lsts-conn:PIN_ARRAY_6x1</footprint>
+      <libsource lib="lsts-conn" part="FTDI-TTL-232R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061bddbbb</tstamps>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_24x1</value>
+      <footprint>lsts-conn:PIN_ARRAY_12x2</footprint>
+      <libsource lib="lsts-conn" part="CONN_24x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff590af4-9552-42e0-adb1-89634e63eeee</tstamps>
+    </comp>
+    <comp ref="P12">
+      <value>FTDI_DTR_conn</value>
+      <footprint>lsts-conn:PIN_ARRAY_6x1</footprint>
+      <libsource lib="Simbolos_Luis" part="FTDI_DTR_conn" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062139303</tstamps>
+    </comp>
+    <comp ref="P26">
+      <value>CONN_2x1</value>
+      <footprint>lsts-conn:JST-2x1HM</footprint>
+      <libsource lib="lsts-conn" part="CONN_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062261058</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c56377</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061cc2d0d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062457aa9</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062457aa3</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>lsts-discretes:EVQP2</footprint>
+      <libsource lib="lsts-devices" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c5c746</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>lsts-discretes:EVQP2</footprint>
+      <libsource lib="lsts-devices" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061cc2d25</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>R-78C3.3-1.0</value>
+      <footprint>lsts-devices:R-785.0-1.0</footprint>
+      <datasheet>R-78C3.3-1.0</datasheet>
+      <libsource lib="lsts-regul" part="REG_Recom" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062045fe2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-WROOM-32U</value>
+      <footprint>lsts-devices:ESP32-WROOM-32U</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp_wroom_32d_esp-wroom-32u_datasheet_en.pdf</datasheet>
+      <libsource lib="lsts-devices" part="ESP32-WROOM-32U" description="Wi-Fi + BT + BLE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061aea313</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>IRM-30</value>
+      <footprint>lsts-devices:CONV_IRM-30-15</footprint>
+      <libsource lib="lsts-regul" part="IRM-30" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006201adbb</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>UMH3N</value>
+      <footprint>lsts-devices:UMH3N</footprint>
+      <libsource lib="Simbolos_Luis" part="UMH3N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Chamber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062118eba</tstamps>
+    </comp>
+    <comp ref="BT1">
+      <value>BATTERY_Keystone_3000</value>
+      <footprint>lsts-devices:Keystone_3000_1x12mm-CoinCell</footprint>
+      <libsource lib="lsts-conn" part="BATTERY_Keystone_3000" description=""/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061c22ce7</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061b1402a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061ac3580</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061c25630</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>503398-1892</value>
+      <footprint>lsts-conn:uSD_503398-1892</footprint>
+      <datasheet>http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf</datasheet>
+      <fields>
+        <field name="Description">MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">503398-1892</field>
+        <field name="Mouser Part Number">538-503398-1892</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/503398-1892?qs=b0v8CoHHvSMxV%252BW12iKaSg%3D%3D</field>
+      </fields>
+      <libsource lib="Simbolos_Luis" part="503398-1892" description="MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height"/>
+      <property name="Description" value="MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height"/>
+      <property name="Manufacturer_Name" value="Molex"/>
+      <property name="Manufacturer_Part_Number" value="503398-1892"/>
+      <property name="Mouser Part Number" value="538-503398-1892"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/503398-1892?qs=b0v8CoHHvSMxV%252BW12iKaSg%3D%3D"/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061b848df</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061c27028</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>RV-3032-C7</value>
+      <footprint>lsts-devices:RV-3028-C7</footprint>
+      <datasheet>https://www.microcrystal.com/fileadmin/Media/Products/RTC/App.Manual/RV-3032-C7_App-Manual.pdf</datasheet>
+      <libsource lib="lsts-devices" part="RV-3032-C7" description="DTCXO Temp. Compensated, Real-Time Clock Module with I2C-Bus Interface"/>
+      <property name="Sheetname" value="SD_RTC"/>
+      <property name="Sheetfile" value="SD_RTC.kicad_sch"/>
+      <sheetpath names="/SD_RTC/" tstamps="/00000000-0000-0000-0000-000061aa6363/"/>
+      <tstamps>00000000-0000-0000-0000-000061c15736</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061ab7ab7</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000062332075</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061aeb851</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc4847</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0e2</tstamps>
+    </comp>
+    <comp ref="F7">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc1008</tstamps>
+    </comp>
+    <comp ref="F8">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006227502f</tstamps>
+    </comp>
+    <comp ref="F9">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c693</tstamps>
+    </comp>
+    <comp ref="F10">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623240b2</tstamps>
+    </comp>
+    <comp ref="F12">
+      <value>Fuse</value>
+      <footprint>lsts-devices:FUSE-HOLDER-5x20</footprint>
+      <libsource lib="lsts-passives" part="Fuse" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006232b0e4</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>MCP23008-E_SS</value>
+      <footprint>lsts-ic:SSOP-20_5.3x7.2mm_P0.65mm</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090055.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MCP23008-E/SS</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mcp23008-ess/microchip-technology?region=nac</field>
+        <field name="Description">8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP23008-E/SS</field>
+        <field name="Mouser Part Number">579-MCP23008-E/SS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP23008-E-SS?qs=Sez7gRs8XSU%2FXF8up%2FiqvA%3D%3D</field>
+      </fields>
+      <libsource lib="Simbolos_Luis" part="MCP23008-E_SS" description="8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP"/>
+      <property name="Description" value="8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP"/>
+      <property name="Height" value="2"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MCP23008-E/SS"/>
+      <property name="Mouser Part Number" value="579-MCP23008-E/SS"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP23008-E-SS?qs=Sez7gRs8XSU%2FXF8up%2FiqvA%3D%3D"/>
+      <property name="Arrow Part Number" value="MCP23008-E/SS"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mcp23008-ess/microchip-technology?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>9970f896-62ef-43cf-8b40-bff79140cdfd</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>MCP23008-E_SS</value>
+      <footprint>lsts-ic:SSOP-20_5.3x7.2mm_P0.65mm</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090055.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MCP23008-E/SS</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mcp23008-ess/microchip-technology?region=nac</field>
+        <field name="Description">8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP23008-E/SS</field>
+        <field name="Mouser Part Number">579-MCP23008-E/SS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP23008-E-SS?qs=Sez7gRs8XSU%2FXF8up%2FiqvA%3D%3D</field>
+      </fields>
+      <libsource lib="Simbolos_Luis" part="MCP23008-E_SS" description="8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP"/>
+      <property name="Description" value="8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP"/>
+      <property name="Height" value="2"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MCP23008-E/SS"/>
+      <property name="Mouser Part Number" value="579-MCP23008-E/SS"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP23008-E-SS?qs=Sez7gRs8XSU%2FXF8up%2FiqvA%3D%3D"/>
+      <property name="Arrow Part Number" value="MCP23008-E/SS"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mcp23008-ess/microchip-technology?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>a7387e6d-0dd6-4bf5-a827-ed362ae99353</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000622347c3</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_2x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x2_3.81mm_90º</footprint>
+      <libsource lib="lsts-conn" part="CONN_2x1" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061facbb7</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006224b286</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_2x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x2_3.81mm_90º</footprint>
+      <libsource lib="lsts-conn" part="CONN_2x1" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623320b7</tstamps>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_2x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x2_3.81mm_90º</footprint>
+      <libsource lib="lsts-conn" part="CONN_2x1" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c6d5</tstamps>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_90º</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000063126496</tstamps>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0f0</tstamps>
+    </comp>
+    <comp ref="P13">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000062272bf2</tstamps>
+    </comp>
+    <comp ref="P25">
+      <value>CONN_3x1-lsts-conn</value>
+      <footprint>lsts-conn:ClampTerminal_3P_5.08mm_90º</footprint>
+      <libsource lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000062285876</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061db3407</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061db42d2</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc47ff</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061f96c73</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233209a</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>MOS_P</value>
+      <footprint>lsts-discretes:SOIC08N_IRF7425PBF</footprint>
+      <datasheet>IRF7425PBF</datasheet>
+      <libsource lib="lsts-discrete" part="MOS_P" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb488e</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>MOS_P</value>
+      <footprint>lsts-discretes:SOIC08N_IRF7425PBF</footprint>
+      <datasheet>IRF7425PBF</datasheet>
+      <libsource lib="lsts-discrete" part="MOS_P" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000062332087</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c6b8</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623240d7</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>MOS_P</value>
+      <footprint>lsts-discretes:SOIC08N_IRF7425PBF</footprint>
+      <datasheet>IRF7425PBF</datasheet>
+      <libsource lib="lsts-discrete" part="MOS_P" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c6a5</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0a7</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>MOS_P</value>
+      <footprint>lsts-discretes:SOIC08N_IRF7425PBF</footprint>
+      <datasheet>IRF7425PBF</datasheet>
+      <libsource lib="lsts-discrete" part="MOS_P" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623240c4</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006232b109</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>MOS_P</value>
+      <footprint>lsts-discretes:SOIC08N_IRF7425PBF</footprint>
+      <datasheet>IRF7425PBF</datasheet>
+      <libsource lib="lsts-discrete" part="MOS_P" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006232b0f6</tstamps>
+    </comp>
+    <comp ref="Q18">
+      <value>NPN_EBC</value>
+      <footprint>lsts-discretes:SOT23_BC817</footprint>
+      <libsource lib="lsts-discrete" part="NPN_EBC" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc0fc0</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>740d84aa-ce72-44f8-8c5e-dd843145b5fa</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc482c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061f96c7b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000062332093</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc4838</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fa4498</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233208d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0cd</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0d9</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc481a</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061ac58b7</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061ab903e</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061ad316c</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061aeb872</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061aeb860</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061aeb884</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c6b1</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623240d0</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0bb</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006233c6ab</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>100k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-0000623240ca</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006232b102</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>100k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006232b0fc</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc0fed</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>1k</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc0ff9</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>470R</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc0fdb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SSRelay_CPC40055ST</value>
+      <footprint>lsts-devices:SSR_RP1A23D5</footprint>
+      <libsource lib="Simbolos_Luis" part="SSRelay_CPC40055ST" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc484f</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SSRelay_CPC40055ST</value>
+      <footprint>lsts-devices:SSR_RP1A23D5</footprint>
+      <libsource lib="Simbolos_Luis" part="SSRelay_CPC40055ST" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061ab6be6</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SSRelay_CPC40055ST</value>
+      <footprint>lsts-devices:SSR_RP1A23D5</footprint>
+      <libsource lib="Simbolos_Luis" part="SSRelay_CPC40055ST" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061aeb849</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SSRelay_CPC40055ST</value>
+      <footprint>lsts-devices:SSR_RP1A23D5</footprint>
+      <libsource lib="Simbolos_Luis" part="SSRelay_CPC40055ST" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-00006311e0ea</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>SSRelay_CPC40055ST</value>
+      <footprint>lsts-devices:SSR_RP1A23D5</footprint>
+      <libsource lib="Simbolos_Luis" part="SSRelay_CPC40055ST" description=""/>
+      <property name="Sheetname" value="MCP23017_Relays"/>
+      <property name="Sheetfile" value="MCP23017_Relays.kicad_sch"/>
+      <sheetpath names="/MCP23017_Relays/" tstamps="/00000000-0000-0000-0000-000061aa1d44/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc1010</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f6ee79</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb6746</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fc8498</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fcde28</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fcf1b1</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fd067f</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>fb1b1db2-8bc8-4f47-90df-da12fb286fa6</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <footprint>lsts-passives:C_0603</footprint>
+      <libsource lib="lsts-passives" part="C" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>ae544163-fa7e-4a6a-94f4-873107be5b47</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>65afd39c-dc55-4165-b717-58118bac82b4</tstamps>
+    </comp>
+    <comp ref="P14">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>275bec26-8e73-4e37-85af-bacaf24852e0</tstamps>
+    </comp>
+    <comp ref="P15">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f5a784</tstamps>
+    </comp>
+    <comp ref="P16">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f5a747</tstamps>
+    </comp>
+    <comp ref="P17">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f6aafb</tstamps>
+    </comp>
+    <comp ref="P18">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f6aac2</tstamps>
+    </comp>
+    <comp ref="P19">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>26f94c08-03bb-4b6d-bbe4-a2b0ce50d7e9</tstamps>
+    </comp>
+    <comp ref="P20">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb247c</tstamps>
+    </comp>
+    <comp ref="P21">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb2450</tstamps>
+    </comp>
+    <comp ref="P22">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb24ad</tstamps>
+    </comp>
+    <comp ref="P23">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb248f</tstamps>
+    </comp>
+    <comp ref="P27">
+      <value>CONN_3x1</value>
+      <footprint>lsts-conn:ClampTerminals_1x3_3.81mm_Straight</footprint>
+      <libsource lib="lsts-conn" part="CONN_3x1" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-0000622a2a94</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>f4cd8950-87ba-42ec-8675-a0937a56eee5</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f5a753</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f5a74d</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f6aace</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-000061f6aac8</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>4k7</value>
+      <footprint>lsts-passives:R_0603</footprint>
+      <libsource lib="lsts-passives" part="R" description=""/>
+      <property name="Sheetname" value="Temp_Sensors"/>
+      <property name="Sheetfile" value="Temp_Sensors.kicad_sch"/>
+      <sheetpath names="/Temp_Sensors/" tstamps="/00000000-0000-0000-0000-000061f518fe/"/>
+      <tstamps>00000000-0000-0000-0000-0000622a2a9a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Chamber-rescue" part="CONN_3x1-lsts-conn-Chamber-rescue">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3x1-lsts-conn-Chamber-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simbolos_Luis" part="503398-1892">
+      <description>MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height</description>
+      <docs>http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">503398-1892</field>
+        <field name="Footprint">503398-1892</field>
+        <field name="Datasheet">http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf</field>
+        <field name="Description">MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">503398-1892</field>
+        <field name="Mouser Part Number">538-503398-1892</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/503398-1892?qs=b0v8CoHHvSMxV%252BW12iKaSg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="passive"/>
+        <pin num="2" name="CD/DAT3" type="passive"/>
+        <pin num="3" name="CMD" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+        <pin num="5" name="CLK" type="passive"/>
+        <pin num="6" name="VSS" type="passive"/>
+        <pin num="7" name="DAT0" type="passive"/>
+        <pin num="8" name="DAT1" type="passive"/>
+        <pin num="9" name="DETECT_LEVER" type="passive"/>
+        <pin num="10" name="DETECT_SWITCH" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simbolos_Luis" part="FTDI_DTR_conn">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">FTDI_DTR_conn</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="DTR#" type="output"/>
+        <pin num="3" name="VCC" type="power_out"/>
+        <pin num="4" name="TxD" type="output"/>
+        <pin num="5" name="RxD" type="input"/>
+        <pin num="6" name="RTS#" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simbolos_Luis" part="MCP23008-E_SS">
+      <description>8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090055.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MCP23008-E_SS</field>
+        <field name="Footprint">SOP65P780X200-20N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090055.pdf</field>
+        <field name="Description">8-Bit I/O Port Expander I2C 1.7M SSOP20 Microchip MCP23008-E/SS, 8-channel 8bit I/O Expander 1.7MHz, I2C, 20-Pin SSOP</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP23008-E/SS</field>
+        <field name="Mouser Part Number">579-MCP23008-E/SS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP23008-E-SS?qs=Sez7gRs8XSU%2FXF8up%2FiqvA%3D%3D</field>
+        <field name="Arrow Part Number">MCP23008-E/SS</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mcp23008-ess/microchip-technology?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="passive"/>
+        <pin num="2" name="SDA" type="passive"/>
+        <pin num="3" name="A2" type="passive"/>
+        <pin num="4" name="A1" type="passive"/>
+        <pin num="5" name="A0" type="passive"/>
+        <pin num="6" name="~{RESET}" type="passive"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="INT" type="passive"/>
+        <pin num="9" name="VSS" type="passive"/>
+        <pin num="10" name="N/C_1" type="passive"/>
+        <pin num="11" name="N/C_2" type="passive"/>
+        <pin num="12" name="GP0" type="passive"/>
+        <pin num="13" name="GP1" type="passive"/>
+        <pin num="14" name="GP2" type="passive"/>
+        <pin num="15" name="GP3" type="passive"/>
+        <pin num="16" name="GP4" type="passive"/>
+        <pin num="17" name="GP5" type="passive"/>
+        <pin num="18" name="GP6" type="passive"/>
+        <pin num="19" name="GP7" type="passive"/>
+        <pin num="20" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simbolos_Luis" part="SSRelay_CPC40055ST">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">SSRelay_CPC40055ST</field>
+        <field name="Footprint">Componentes_Luis:Solid_state_relay_CPC40055ST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC_1" type="bidirectional"/>
+        <pin num="2" name="AC_2" type="bidirectional"/>
+        <pin num="3" name="LED+" type="bidirectional"/>
+        <pin num="4" name="LED-" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simbolos_Luis" part="UMH3N">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">UMH3N</field>
+        <field name="Footprint">UMT6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-conn" part="BATTERY_Keystone_3000">
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">BATTERY_Keystone_3000</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-conn" part="CONN_24x1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_24x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="e~" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+        <pin num="17" name="" type="passive"/>
+        <pin num="18" name="" type="passive"/>
+        <pin num="19" name="" type="passive"/>
+        <pin num="20" name="" type="passive"/>
+        <pin num="21" name="" type="passive"/>
+        <pin num="22" name="" type="passive"/>
+        <pin num="23" name="" type="passive"/>
+        <pin num="24" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-conn" part="CONN_2x1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-conn" part="CONN_3x1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-conn" part="FTDI-TTL-232R">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">FTDI-TTL-232R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="CTS#" type="input"/>
+        <pin num="3" name="VCC" type="power_out"/>
+        <pin num="4" name="TxD" type="output"/>
+        <pin num="5" name="RxD" type="input"/>
+        <pin num="6" name="RTS#" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-devices" part="ESP32-WROOM-32U">
+      <description>Wi-Fi + BT + BLE</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp_wroom_32d_esp-wroom-32u_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32U</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp_wroom_32d_esp-wroom-32u_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0" type="bidirectional"/>
+        <pin num="35" name="TXD0" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-devices" part="RV-3032-C7">
+      <description>DTCXO Temp. Compensated, Real-Time Clock Module with I2C-Bus Interface</description>
+      <docs>https://www.microcrystal.com/fileadmin/Media/Products/RTC/App.Manual/RV-3032-C7_App-Manual.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RV-3032-C7</field>
+        <field name="Footprint">lsts-devices:RV-3028-C7</field>
+        <field name="Datasheet">https://www.microcrystal.com/fileadmin/Media/Products/RTC/App.Manual/RV-3032-C7_App-Manual.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBACKUP" type="power_in"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="~{INT}" type="open_collector"/>
+        <pin num="4" name="EVI" type="input"/>
+        <pin num="5" name="VSS" type="power_in"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="CLKOUT" type="unspecified"/>
+        <pin num="8" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-devices" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-discrete" part="MOS_P">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MOS_P</field>
+      </fields>
+      <pins>
+        <pin num="D" name="D" type="passive"/>
+        <pin num="G" name="G" type="input"/>
+        <pin num="S" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-discrete" part="NPN_EBC">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NPN_EBC</field>
+      </fields>
+      <pins>
+        <pin num="B" name="B" type="input"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="E" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-passives" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-passives" part="CP1">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>CR*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-passives" part="Fuse">
+      <fields>
+        <field name="Reference">F?</field>
+        <field name="Value">Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-passives" part="R">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-regul" part="IRM-30">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IRM-30</field>
+      </fields>
+      <pins>
+        <pin num="+V" name="+V" type="input"/>
+        <pin num="-V" name="-V" type="input"/>
+        <pin num="AC/L" name="AC/L" type="input"/>
+        <pin num="AC/N" name="AC/N" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lsts-regul" part="REG_Recom">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">REG_Recom</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="Vout" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Chamber-rescue">
+      <uri>E:\OneDrive - Universidade do Porto\Electronics\5_Kicad_SVN\Chamber\trunk\Back_Panel/Chamber-rescue.kicad_sym</uri>
+    </library>
+    <library logical="Simbolos_Luis">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/Simbolos_Luis/Simbolos_Luis.kicad_sym</uri>
+    </library>
+    <library logical="lsts-conn">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/eda/kicad-library/lsts-conn.kicad_sym</uri>
+    </library>
+    <library logical="lsts-devices">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/eda/kicad-library/lsts-devices.kicad_sym</uri>
+    </library>
+    <library logical="lsts-discrete">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/eda/kicad-library/lsts-discrete.kicad_sym</uri>
+    </library>
+    <library logical="lsts-passives">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/eda/kicad-library/lsts-passives.kicad_sym</uri>
+    </library>
+    <library logical="lsts-regul">
+      <uri>E:/OneDrive - Universidade do Porto/Electronics/6_Kicad_components/eda/kicad-library/lsts-regul.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="20" pinfunction="VDD" pintype="passive"/>
+      <node ref="IC2" pin="20" pinfunction="VDD" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="VDD" pintype="passive"/>
+      <node ref="P10" pin="23" pintype="passive"/>
+      <node ref="P10" pin="24" pintype="passive"/>
+      <node ref="P11" pin="3" pintype="passive"/>
+      <node ref="P12" pin="3" pinfunction="VCC" pintype="power_out"/>
+      <node ref="P14" pin="3" pintype="passive"/>
+      <node ref="P15" pin="3" pintype="passive"/>
+      <node ref="P16" pin="3" pintype="passive"/>
+      <node ref="P17" pin="3" pintype="passive"/>
+      <node ref="P18" pin="3" pintype="passive"/>
+      <node ref="P19" pin="3" pintype="passive"/>
+      <node ref="P20" pin="3" pintype="passive"/>
+      <node ref="P21" pin="3" pintype="passive"/>
+      <node ref="P22" pin="3" pintype="passive"/>
+      <node ref="P23" pin="3" pintype="passive"/>
+      <node ref="P26" pin="2" pintype="passive"/>
+      <node ref="P27" pin="3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Vout" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="Q10" pin="D" pinfunction="D" pintype="passive"/>
+      <node ref="Q12" pin="D" pinfunction="D" pintype="passive"/>
+      <node ref="Q16" pin="D" pinfunction="D" pintype="passive"/>
+      <node ref="Q6" pin="D" pinfunction="D" pintype="passive"/>
+      <node ref="Q7" pin="D" pinfunction="D" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Vin" pintype="input"/>
+      <node ref="U10" pin="+V" pinfunction="+V" pintype="input"/>
+    </net>
+    <net code="3" name="/1Wire_1">
+      <node ref="P15" pin="2" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/1Wire_2">
+      <node ref="P16" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/1Wire_3">
+      <node ref="P17" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/1Wire_4">
+      <node ref="P18" pin="2" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/1Wire_5">
+      <node ref="P27" pin="2" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/1Wire_6">
+      <node ref="P11" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/AC_Earth">
+      <node ref="P1" pin="3" pintype="passive"/>
+      <node ref="P13" pin="3" pintype="passive"/>
+      <node ref="P2" pin="3" pintype="passive"/>
+      <node ref="P25" pin="3" pintype="passive"/>
+      <node ref="P4" pin="3" pintype="passive"/>
+      <node ref="P9" pin="3" pintype="passive"/>
+    </net>
+    <net code="10" name="/AC_Live">
+      <node ref="F1" pin="2" pintype="input"/>
+      <node ref="F3" pin="2" pintype="input"/>
+      <node ref="F4" pin="2" pintype="input"/>
+      <node ref="F5" pin="2" pintype="input"/>
+      <node ref="F7" pin="2" pintype="input"/>
+      <node ref="P1" pin="1" pintype="passive"/>
+      <node ref="U10" pin="AC/L" pinfunction="AC/L" pintype="input"/>
+    </net>
+    <net code="11" name="/AC_Neutral">
+      <node ref="P1" pin="2" pintype="passive"/>
+      <node ref="P13" pin="2" pintype="passive"/>
+      <node ref="P2" pin="2" pintype="passive"/>
+      <node ref="P25" pin="2" pintype="passive"/>
+      <node ref="P4" pin="2" pintype="passive"/>
+      <node ref="P9" pin="2" pintype="passive"/>
+      <node ref="U10" pin="AC/N" pinfunction="AC/N" pintype="input"/>
+    </net>
+    <net code="12" name="/DC_TFT">
+      <node ref="P10" pin="14" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/ESP_EN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U11" pin="6" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="14" name="/ESP_IO_0">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U11" pin="3" pintype="input"/>
+      <node ref="U3" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/FTDI_DTR">
+      <node ref="P12" pin="2" pinfunction="DTR#" pintype="output"/>
+      <node ref="U11" pin="2" pintype="input"/>
+      <node ref="U11" pin="4" pintype="output"/>
+    </net>
+    <net code="16" name="/FTDI_RTS">
+      <node ref="P12" pin="6" pinfunction="RTS#" pintype="output"/>
+      <node ref="U11" pin="1" pintype="output"/>
+      <node ref="U11" pin="5" pintype="input"/>
+    </net>
+    <net code="17" name="/FTDI_RX">
+      <node ref="P12" pin="5" pinfunction="RxD" pintype="input"/>
+      <node ref="P6" pin="5" pinfunction="RxD" pintype="input"/>
+      <node ref="U3" pin="35" pinfunction="TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/FTDI_TX">
+      <node ref="P12" pin="4" pinfunction="TxD" pintype="output"/>
+      <node ref="P6" pin="4" pinfunction="TxD" pintype="output"/>
+      <node ref="U3" pin="34" pinfunction="RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/I2C_SCL">
+      <node ref="IC1" pin="1" pinfunction="SCL" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="SCL" pintype="passive"/>
+      <node ref="P10" pin="19" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="SCL" pintype="input"/>
+      <node ref="U3" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/I2C_SDA">
+      <node ref="IC1" pin="2" pinfunction="SDA" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="SDA" pintype="passive"/>
+      <node ref="P10" pin="20" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U3" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/Int_Sw1">
+      <node ref="P10" pin="21" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/Int_Sw2">
+      <node ref="P10" pin="22" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/Int_Water_Sensors">
+      <node ref="IC2" pin="8" pinfunction="INT" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/LED_12v_1">
+      <node ref="F8" pin="1" pintype="input"/>
+      <node ref="P10" pin="8" pintype="passive"/>
+      <node ref="P3" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/LED_12v_2">
+      <node ref="F2" pin="1" pintype="input"/>
+      <node ref="P10" pin="7" pinfunction="e~" pintype="passive"/>
+      <node ref="P5" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="/LED_12v_3">
+      <node ref="F9" pin="1" pintype="input"/>
+      <node ref="P10" pin="6" pintype="passive"/>
+      <node ref="P7" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="/LED_12v_4">
+      <node ref="F12" pin="1" pintype="input"/>
+      <node ref="P10" pin="4" pintype="passive"/>
+      <node ref="P8" pin="3" pintype="passive"/>
+    </net>
+    <net code="28" name="/LED_12v_5">
+      <node ref="F10" pin="1" pintype="input"/>
+      <node ref="P10" pin="5" pintype="passive"/>
+      <node ref="P8" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="/LED_230v_1">
+      <node ref="IC1" pin="12" pinfunction="GP0" pintype="passive"/>
+      <node ref="P10" pin="13" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/LED_230v_2">
+      <node ref="IC1" pin="13" pinfunction="GP1" pintype="passive"/>
+      <node ref="P10" pin="11" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="/LED_230v_3">
+      <node ref="IC1" pin="14" pinfunction="GP2" pintype="passive"/>
+      <node ref="P10" pin="12" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="/LED_230v_4">
+      <node ref="IC1" pin="15" pinfunction="GP3" pintype="passive"/>
+      <node ref="P10" pin="9" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/LED_230v_5">
+      <node ref="IC1" pin="16" pinfunction="GP4" pintype="passive"/>
+      <node ref="P10" pin="10" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="/MCP23017_Relays/12v_1">
+      <node ref="IC1" pin="17" pinfunction="GP5" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/MCP23017_Relays/12v_2">
+      <node ref="IC1" pin="18" pinfunction="GP6" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="/MCP23017_Relays/12v_3">
+      <node ref="IC1" pin="19" pinfunction="GP7" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/MCP23017_Relays/12v_4">
+      <node ref="IC2" pin="18" pinfunction="GP6" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="/MCP23017_Relays/12v_5">
+      <node ref="IC2" pin="19" pinfunction="GP7" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="/MCP23017_Relays/AC_Live_Load_1">
+      <node ref="P4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="AC_1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/MCP23017_Relays/AC_Live_Load_2">
+      <node ref="P13" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="AC_1" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/MCP23017_Relays/AC_Live_Load_3">
+      <node ref="P25" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="AC_1" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/MCP23017_Relays/AC_Live_Load_4">
+      <node ref="P2" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="AC_1" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/MCP23017_Relays/AC_Live_Load_5">
+      <node ref="P9" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="AC_1" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/SPI_CS_SD">
+      <node ref="J1" pin="2" pinfunction="CD/DAT3" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/SPI_CS_TFT">
+      <node ref="P10" pin="16" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/SPI_MISO">
+      <node ref="J1" pin="7" pinfunction="DAT0" pintype="passive"/>
+      <node ref="P10" pin="15" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/SPI_MOSI">
+      <node ref="J1" pin="3" pinfunction="CMD" pintype="passive"/>
+      <node ref="P10" pin="18" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/SPI_SCK">
+      <node ref="J1" pin="5" pinfunction="CLK" pintype="passive"/>
+      <node ref="P10" pin="17" pintype="passive"/>
+      <node ref="U3" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/Water_Sensor_1">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="17" pinfunction="GP5" pintype="passive"/>
+      <node ref="P14" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="/Water_Sensor_2">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="16" pinfunction="GP4" pintype="passive"/>
+      <node ref="P19" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="/Water_Sensor_3">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="13" pinfunction="GP1" pintype="passive"/>
+      <node ref="P20" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="/Water_Sensor_4">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="14" pinfunction="GP2" pintype="passive"/>
+      <node ref="P21" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="/Water_Sensor_5">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="15" pinfunction="GP3" pintype="passive"/>
+      <node ref="P22" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="/Water_Sensor_6">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="12" pinfunction="GP0" pintype="passive"/>
+      <node ref="P23" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="GND">
+      <node ref="BT1" pin="-" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="A2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="A1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="A0" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="VSS" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="A2" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="A1" pintype="passive"/>
+      <node ref="IC2" pin="9" pinfunction="VSS" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="VSS" pintype="passive"/>
+      <node ref="P10" pin="1" pintype="passive"/>
+      <node ref="P10" pin="2" pintype="passive"/>
+      <node ref="P10" pin="3" pintype="passive"/>
+      <node ref="P11" pin="1" pintype="passive"/>
+      <node ref="P12" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="P14" pin="1" pintype="passive"/>
+      <node ref="P15" pin="1" pintype="passive"/>
+      <node ref="P16" pin="1" pintype="passive"/>
+      <node ref="P17" pin="1" pintype="passive"/>
+      <node ref="P18" pin="1" pintype="passive"/>
+      <node ref="P19" pin="1" pintype="passive"/>
+      <node ref="P20" pin="1" pintype="passive"/>
+      <node ref="P21" pin="1" pintype="passive"/>
+      <node ref="P22" pin="1" pintype="passive"/>
+      <node ref="P23" pin="1" pintype="passive"/>
+      <node ref="P26" pin="1" pintype="passive"/>
+      <node ref="P27" pin="1" pintype="passive"/>
+      <node ref="P3" pin="2" pintype="passive"/>
+      <node ref="P5" pin="2" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="P7" pin="2" pintype="passive"/>
+      <node ref="P8" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q11" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q14" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q18" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q8" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="Q9" pin="E" pinfunction="E" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U10" pin="-V" pinfunction="-V" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="EVI" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="39" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="56" name="Net-(BT1-Pad+)">
+      <node ref="BT1" pin="+" pinfunction="+" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="P6" pin="6" pinfunction="RTS#" pintype="output"/>
+    </net>
+    <net code="58" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="AC_2" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(F2-Pad2)">
+      <node ref="F2" pin="2" pintype="input"/>
+      <node ref="Q7" pin="S" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(F3-Pad1)">
+      <node ref="F3" pin="1" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="AC_2" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(F4-Pad1)">
+      <node ref="F4" pin="1" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="AC_2" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(F5-Pad1)">
+      <node ref="F5" pin="1" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="AC_2" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="Net-(F7-Pad1)">
+      <node ref="F7" pin="1" pintype="input"/>
+      <node ref="U9" pin="2" pinfunction="AC_2" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="Net-(F8-Pad2)">
+      <node ref="F8" pin="2" pintype="input"/>
+      <node ref="Q6" pin="S" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(F9-Pad2)">
+      <node ref="F9" pin="2" pintype="input"/>
+      <node ref="Q10" pin="S" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(F10-Pad2)">
+      <node ref="F10" pin="2" pintype="input"/>
+      <node ref="Q12" pin="S" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(F12-Pad2)">
+      <node ref="F12" pin="2" pintype="input"/>
+      <node ref="Q16" pin="S" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="~{RESET}" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="A0" pintype="passive"/>
+      <node ref="IC2" pin="6" pinfunction="~{RESET}" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(Q1-PadB)">
+      <node ref="Q1" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(Q1-PadC)">
+      <node ref="Q1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="LED-" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="Net-(Q2-PadB)">
+      <node ref="Q2" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(Q2-PadC)">
+      <node ref="Q2" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="LED-" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="Net-(Q3-PadB)">
+      <node ref="Q3" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(Q3-PadC)">
+      <node ref="Q3" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="LED-" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="Net-(Q4-PadB)">
+      <node ref="Q4" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(Q4-PadC)">
+      <node ref="Q4" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="Q6" pin="G" pinfunction="G" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(Q5-PadB)">
+      <node ref="Q5" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(Q5-PadC)">
+      <node ref="Q5" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="Q7" pin="G" pinfunction="G" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(Q8-PadB)">
+      <node ref="Q8" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(Q9-PadB)">
+      <node ref="Q9" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(Q10-PadG)">
+      <node ref="Q10" pin="G" pinfunction="G" pintype="input"/>
+      <node ref="Q8" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(Q11-PadB)">
+      <node ref="Q11" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(Q11-PadC)">
+      <node ref="Q11" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="LED-" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(Q12-PadG)">
+      <node ref="Q12" pin="G" pinfunction="G" pintype="input"/>
+      <node ref="Q9" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(Q14-PadB)">
+      <node ref="Q14" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(Q14-PadC)">
+      <node ref="Q14" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="Q16" pin="G" pinfunction="G" pintype="input"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q18-PadB)">
+      <node ref="Q18" pin="B" pinfunction="B" pintype="input"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q18-PadC)">
+      <node ref="Q18" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="LED-" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VBACKUP" pintype="power_in"/>
+    </net>
+    <net code="90" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="LED+" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="LED+" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="LED+" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="LED+" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(R42-Pad1)">
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="LED+" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(IC1-Pad8)">
+      <node ref="IC1" pin="8" pinfunction="INT" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(IC1-Pad10)">
+      <node ref="IC1" pin="10" pinfunction="N/C_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(IC1-Pad11)">
+      <node ref="IC1" pin="11" pinfunction="N/C_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(IC2-Pad7)">
+      <node ref="IC2" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(IC2-Pad10)">
+      <node ref="IC2" pin="10" pinfunction="N/C_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(IC2-Pad11)">
+      <node ref="IC2" pin="11" pinfunction="N/C_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="DAT2" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="DAT1" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="DETECT_LEVER" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="DETECT_SWITCH" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(P6-Pad2)">
+      <node ref="P6" pin="2" pinfunction="CTS#" pintype="input+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(P6-Pad3)">
+      <node ref="P6" pin="3" pinfunction="VCC" pintype="power_out+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="~{INT}" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="CLKOUT" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="SENSOR_VP" pintype="input+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="SENSOR_VN" pintype="input+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="IO34" pintype="input+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pinfunction="IO35" pintype="input+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="IO33" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U3-Pad17)">
+      <node ref="U3" pin="17" pinfunction="SHD/SD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U3-Pad18)">
+      <node ref="U3" pin="18" pinfunction="SWP/SD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="SCS/CMD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="SCK/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="SDO/SD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U3-Pad22)">
+      <node ref="U3" pin="22" pinfunction="SDI/SD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U3-Pad26)">
+      <node ref="U3" pin="26" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U3-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
