@@ -3,7 +3,7 @@ Intertidal chamber
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td><img src="Images/Chamber_front view.jpg" alt="Chamber 1 Image" width="300"></td>
-   <td><img src="Images/Experimental tank front view.jng" alt="Chamber 2 Image" width="300"></td>
+   <td><img src="Images/Experimental tank front view.jpg" alt="Chamber 2 Image" width="300"></td>
   </tr>
 </table>
 
