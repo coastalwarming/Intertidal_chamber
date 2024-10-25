@@ -7,7 +7,7 @@ Intertidal chamber
   </tr>
 </table>
 
-The Intertidal Chamber is a self-contained, automatic experimental system that simulates the intertidal environment. Using multiple chambers, researchers can create “virtual common garden experiments” across
+The Intertidal Environmental Chamber is a self-contained, automatic experimental system that simulates the intertidal environment. Using multiple chambers, researchers can create “virtual common garden experiments” across
 large geographic spans. The system plugs into a regular mains power outlet and controls other mains power
 devices (such as pumps and heaters) and 12 V (such as fans, LEDs, and water valves).
 
